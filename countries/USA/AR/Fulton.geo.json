@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Fulton","state":"AR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.6696,36.5019],[-91.4506,36.4964],[-91.4560,36.3376],[-91.5656,36.3376],[-91.5656,36.2499],[-91.6916,36.2554],[-92.1242,36.2609],[-92.1571,36.2609],[-92.1516,36.4964],[-92.1188,36.4964]]]]}}
+]}

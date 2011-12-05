@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Portage","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.3894,41.3490],[-81.0006,41.3490],[-81.0006,41.1354],[-81.0006,40.9875],[-81.0882,40.9875],[-81.3949,40.9875],[-81.3894,41.3490]]]]}}
+]}

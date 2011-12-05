@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Hempstead","state":"AR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.8111,34.0099],[-93.5263,33.9441],[-93.4551,33.9551],[-93.4825,33.4786],[-93.7235,33.4841],[-93.7454,33.5334],[-93.7728,33.5005],[-93.8276,33.6100],[-93.9645,33.6703],[-93.9590,33.7524],[-93.8330,33.7470],[-93.8221,34.0099]]]]}}
+]}

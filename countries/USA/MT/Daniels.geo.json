@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MT"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Daniels","state":"MT"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-105.0553,49.0002],[-105.0389,48.6497],[-104.9731,48.6497],[-104.9731,48.5621],[-105.7563,48.5621],[-105.8056,48.5621],[-106.0192,48.5621],[-106.0192,48.8250],[-106.1507,48.8250],[-106.1123,49.0002]]]]}}
+]}

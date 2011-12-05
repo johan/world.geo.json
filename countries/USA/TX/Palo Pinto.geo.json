@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Palo Pinto","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.4282,33.0076],[-98.0558,33.0021],[-98.0667,32.5585],[-98.0667,32.5092],[-98.4775,32.5146],[-98.5761,32.5146],[-98.5761,32.9528],[-98.4282,32.9528]]]]}}
+]}

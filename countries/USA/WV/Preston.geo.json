@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WV"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Preston","state":"WV"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.6094,39.7223],[-79.4780,39.7223],[-79.4889,39.2075],[-79.4889,39.1965],[-79.6861,39.2732],[-79.8121,39.2294],[-79.8942,39.3006],[-79.8942,39.4375],[-79.8997,39.4813],[-79.7902,39.6237],[-79.7628,39.7223]]]]}}
+]}

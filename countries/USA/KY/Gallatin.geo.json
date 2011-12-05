@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Gallatin","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.7797,38.8569],[-84.6592,38.7748],[-84.7797,38.7638],[-84.7851,38.7200],[-84.8180,38.7091],[-84.9330,38.6598],[-85.0261,38.7638],[-84.8125,38.7857],[-84.8289,38.8296],[-84.7961,38.8569]]]]}}
+]}

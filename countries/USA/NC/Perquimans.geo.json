@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Perquimans","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.4547,36.3759],[-76.3726,36.2609],[-76.2904,36.2225],[-76.1918,36.1185],[-76.4109,36.0747],[-76.5697,36.1075],[-76.5916,36.2390],[-76.5588,36.3540]]]]}}
+]}

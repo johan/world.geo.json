@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Manassas Park","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-77.4570,38.7748],[-77.4734,38.7803],[-77.4351,38.7803]]]]}}
+]}

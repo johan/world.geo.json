@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Searcy","state":"AR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.9458,36.1130],[-92.8910,36.1130],[-92.8362,36.1130],[-92.8362,36.0692],[-92.4090,36.0637],[-92.4145,35.9761],[-92.4145,35.7899],[-92.6117,35.7899],[-92.6336,35.7187],[-92.8089,35.7241],[-92.9513,35.7241]]]]}}
+]}

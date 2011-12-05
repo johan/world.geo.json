@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Carroll","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.7733,40.5603],[-86.7514,40.7355],[-86.5816,40.7355],[-86.5268,40.7355],[-86.5268,40.6917],[-86.3734,40.6917],[-86.3734,40.5603],[-86.3734,40.4343],[-86.6966,40.4343],[-86.6966,40.5603]]]]}}
+]}

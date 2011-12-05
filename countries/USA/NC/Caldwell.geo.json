@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Caldwell","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.6852,36.1240],[-81.5428,36.1185],[-81.4113,36.0747],[-81.3292,35.9980],[-81.3347,35.7953],[-81.3620,35.7680],[-81.5537,35.7789],[-81.8057,35.9596],[-81.7345,36.0692],[-81.8112,36.1130]]]]}}
+]}

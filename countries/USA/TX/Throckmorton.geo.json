@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Throckmorton","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.4743,33.3964],[-98.9540,33.3964],[-98.9485,32.9583],[-99.0964,32.9583],[-99.2333,32.9583],[-99.4688,32.9583]]]]}}
+]}

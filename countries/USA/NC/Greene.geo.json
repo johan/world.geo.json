@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Greene","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-77.6815,35.6365],[-77.5008,35.5160],[-77.4734,35.4284],[-77.6706,35.3462],[-77.7035,35.3791],[-77.8075,35.3681],[-77.8239,35.5708],[-77.6980,35.6529]]]]}}
+]}

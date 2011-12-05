@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Louisa","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-77.9554,38.1176],[-77.8404,38.1066],[-77.6870,38.0080],[-77.7966,37.7287],[-77.8897,37.7616],[-77.9499,37.8437],[-78.0649,37.9040],[-78.3059,38.0080],[-78.2073,38.1340],[-78.1033,38.1504]]]]}}
+]}

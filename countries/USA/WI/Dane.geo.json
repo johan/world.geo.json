@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Dane","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.4131,43.2933],[-89.0079,43.2823],[-89.0079,43.2002],[-89.0133,42.8496],[-89.0517,42.8496],[-89.3693,42.8442],[-89.8404,42.8551],[-89.8404,43.2056],[-89.7308,43.2549],[-89.7199,43.2933]]]]}}
+]}

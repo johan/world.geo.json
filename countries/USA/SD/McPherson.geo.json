@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"McPherson","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.7208,45.9386],[-99.0033,45.9386],[-98.7239,45.9386],[-98.7239,45.5936],[-99.7098,45.5936],[-99.7153,45.5936]]]]}}
+]}

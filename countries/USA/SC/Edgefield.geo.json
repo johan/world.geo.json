@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Edgefield","state":"SC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.0083,33.9606],[-81.8933,33.9770],[-81.8385,33.8675],[-81.6523,33.8127],[-82.0138,33.5334],[-82.0302,33.5443],[-82.1179,33.5991],[-82.0960,33.6319],[-82.1836,33.7251],[-82.1124,33.8291],[-82.1562,33.9277],[-82.0467,33.9551]]]]}}
+]}

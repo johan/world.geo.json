@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Rowan","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.6884,35.8611],[-80.4584,35.7406],[-80.3324,35.7187],[-80.3324,35.6803],[-80.2064,35.5817],[-80.1845,35.5051],[-80.2338,35.5051],[-80.2940,35.5051],[-80.7377,35.5051],[-80.7705,35.6748],[-80.7103,35.8501]]]]}}
+]}

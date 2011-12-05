@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Baker","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.4291,31.4357],[-84.1389,31.4412],[-84.1991,31.3535],[-84.3415,31.3042],[-84.4127,31.1892],[-84.4839,31.1564],[-84.5058,31.0797],[-84.5441,31.0797],[-84.5387,31.2550],[-84.6427,31.2604],[-84.6373,31.4357]]]]}}
+]}

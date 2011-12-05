@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"ID"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Kootenai","state":"ID"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-116.5678,47.9925],[-116.5021,47.9925],[-116.5076,47.8884],[-116.3214,47.8884],[-116.3268,47.4119],[-116.5843,47.4119],[-116.6281,47.4010],[-116.6281,47.3736],[-117.0388,47.3681],[-117.0443,47.9761]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Harnett","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.9139,35.5817],[-78.7112,35.5215],[-78.6291,35.4558],[-78.5305,35.3353],[-78.5414,35.3134],[-78.6181,35.2476],[-78.7934,35.2641],[-78.9522,35.2148],[-79.0946,35.1929],[-79.2206,35.2695],[-79.1822,35.3079],[-78.9686,35.5215]]]]}}
+]}

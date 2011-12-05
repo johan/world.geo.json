@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Licking","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.7532,40.2755],[-82.1945,40.2371],[-82.1891,40.1659],[-82.2000,39.9523],[-82.2329,39.9523],[-82.2329,39.9140],[-82.4629,39.9304],[-82.7806,39.9414],[-82.7641,40.1276]]]]}}
+]}

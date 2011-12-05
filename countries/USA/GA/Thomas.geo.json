@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Thomas","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.1005,31.0797],[-84.0019,31.0797],[-84.0019,31.0414],[-83.7390,31.0359],[-83.7445,30.6580],[-84.0074,30.6744],[-84.0841,30.6744],[-84.0731,30.9099],[-84.1169,30.9702],[-84.1169,31.0797]]]]}}
+]}

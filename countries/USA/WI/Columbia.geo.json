@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Columbia","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.2434,43.6438],[-89.0079,43.6328],[-89.0079,43.2823],[-89.4131,43.2933],[-89.7199,43.2933],[-89.6815,43.3590],[-89.5994,43.3809],[-89.5994,43.5562],[-89.7308,43.5726],[-89.7199,43.6000],[-89.7856,43.6383],[-89.5994,43.6438]]]]}}
+]}

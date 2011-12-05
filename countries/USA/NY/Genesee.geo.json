@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Genesee","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-77.9061,43.1290],[-77.9499,43.0413],[-77.9061,43.0359],[-77.9116,42.9866],[-77.9554,42.8606],[-78.0978,42.8715],[-78.4647,42.8661],[-78.4647,43.0906],[-78.4647,43.1290],[-77.9992,43.1344]]]]}}
+]}

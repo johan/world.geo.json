@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Scotts Bluff","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-103.4560,42.0062],[-103.4013,42.0062],[-103.3629,42.0007],[-103.3684,41.6995],[-104.0530,41.6995],[-104.0530,42.0007]]]]}}
+]}

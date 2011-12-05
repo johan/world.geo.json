@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Kearney","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.9540,40.6534],[-98.7239,40.6917],[-98.7239,40.3522],[-98.7294,40.3522],[-99.1128,40.3522],[-99.1785,40.3522],[-99.1785,40.6589]]]]}}
+]}

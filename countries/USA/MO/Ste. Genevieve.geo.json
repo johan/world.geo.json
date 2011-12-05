@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Ste. Genevieve","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.2511,38.1285],[-90.2073,38.0902],[-89.9992,37.9642],[-89.9225,37.9587],[-89.9773,37.9259],[-89.9389,37.8766],[-90.1087,37.6739],[-90.1525,37.7013],[-90.2018,37.6684],[-90.4592,37.8766],[-90.3223,37.9806],[-90.4154,38.0409]]]]}}
+]}

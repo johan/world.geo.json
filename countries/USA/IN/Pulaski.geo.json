@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Pulaski","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.6692,41.1737],[-86.4666,41.1737],[-86.4666,40.9108],[-86.5816,40.9108],[-86.8773,40.9108],[-86.9321,40.9108],[-86.9321,41.1737]]]]}}
+]}

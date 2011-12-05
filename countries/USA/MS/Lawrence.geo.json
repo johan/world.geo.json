@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Lawrence","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.9773,31.7534],[-89.9608,31.3919],[-90.0430,31.3974],[-90.0430,31.3371],[-90.1909,31.3481],[-90.2456,31.3481],[-90.2456,31.7150],[-90.1252,31.7534],[-89.9773,31.7643]]]]}}
+]}

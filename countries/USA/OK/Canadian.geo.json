@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Canadian","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.9736,35.7241],[-97.6724,35.7241],[-97.6724,35.3791],[-97.6724,35.3353],[-97.6724,35.3353],[-98.0941,35.3791],[-98.3077,35.3791],[-98.3132,35.5489],[-98.3132,35.7241],[-98.2091,35.7241]]]]}}
+]}

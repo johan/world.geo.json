@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Stafford","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.8006,38.2600],[-98.4775,38.2600],[-98.4720,38.1723],[-98.4720,37.8273],[-98.9047,37.8273],[-99.0142,37.8273],[-99.0197,38.0025],[-98.9156,38.0025],[-98.9102,38.2600]]]]}}
+]}

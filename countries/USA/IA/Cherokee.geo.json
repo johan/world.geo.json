@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Cherokee","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.4159,42.9099],[-95.3885,42.9099],[-95.3885,42.5594],[-95.4652,42.5594],[-95.7390,42.5594],[-95.8595,42.5594],[-95.8595,42.9099]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"RI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Providence","state":"RI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-71.4981,42.0171],[-71.3831,42.0171],[-71.3831,41.9843],[-71.3831,41.8912],[-71.3392,41.8966],[-71.3447,41.8254],[-71.3173,41.7762],[-71.3666,41.7378],[-71.4214,41.7652],[-71.4543,41.7323],[-71.7884,41.7269],[-71.7993,42.0062]]]]}}
+]}

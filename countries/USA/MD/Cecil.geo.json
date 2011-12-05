@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Cecil","state":"MD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-75.8084,39.7223],[-75.7865,39.7223],[-75.7646,39.3773],[-76.0001,39.3773],[-76.0385,39.3937],[-75.9782,39.4430],[-76.0111,39.4539],[-75.9727,39.5580],[-76.0768,39.5416],[-76.2356,39.7223],[-76.1370,39.7223]]]]}}
+]}

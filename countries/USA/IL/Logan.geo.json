@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Logan","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.2653,40.3248],[-89.2653,40.2810],[-89.1503,40.2810],[-89.1448,40.0509],[-89.1448,39.9195],[-89.2160,39.9195],[-89.4843,39.9304],[-89.4898,39.9742],[-89.5775,39.9742],[-89.5994,40.1221],[-89.6048,40.3193]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Oldham","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.1635,35.6256],[-102.1635,35.6201],[-102.1689,35.1819],[-102.5797,35.1874],[-103.0398,35.1819],[-103.0398,35.6201]]]]}}
+]}

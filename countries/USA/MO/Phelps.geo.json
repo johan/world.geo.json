@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Phelps","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.6313,38.1559],[-91.5327,38.1504],[-91.5272,37.7889],[-91.8066,37.7889],[-91.8066,37.5972],[-92.0311,37.6027],[-92.0202,38.0080],[-91.8942,38.0518],[-91.6313,38.0518]]]]}}
+]}

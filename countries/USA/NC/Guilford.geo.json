@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Guilford","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.0366,36.2554],[-80.0366,36.2554],[-79.5327,36.2390],[-79.5437,35.8994],[-80.0366,35.9213],[-80.0476,35.9213],[-80.0421,36.0089]]]]}}
+]}

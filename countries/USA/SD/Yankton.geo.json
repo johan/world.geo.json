@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Yankton","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.3438,43.1673],[-97.1630,43.1673],[-97.1575,43.0851],[-97.1630,42.8003],[-97.3054,42.8661],[-97.4862,42.8496],[-97.6340,42.8496],[-97.6395,43.1673],[-97.3985,43.1673]]]]}}
+]}

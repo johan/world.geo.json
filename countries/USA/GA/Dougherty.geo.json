@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Dougherty","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.0184,31.6493],[-83.9910,31.6493],[-84.0129,31.6219],[-83.9800,31.5617],[-83.9965,31.4412],[-84.0622,31.4412],[-84.1389,31.4412],[-84.4291,31.4357],[-84.4510,31.6219],[-84.2977,31.6219],[-84.0457,31.6219]]]]}}
+]}

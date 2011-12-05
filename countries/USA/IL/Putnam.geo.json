@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Putnam","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.1612,41.3106],[-89.1612,41.1025],[-89.3584,41.1025],[-89.3310,41.1463],[-89.4679,41.1463],[-89.4679,41.2339],[-89.3584,41.2339],[-89.3419,41.2997],[-89.2653,41.3216]]]]}}
+]}

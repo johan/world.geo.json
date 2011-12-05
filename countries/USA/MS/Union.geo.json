@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Union","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.0900,34.5959],[-88.7340,34.5959],[-88.7340,34.5083],[-88.7888,34.4973],[-88.7888,34.3932],[-88.8271,34.3932],[-88.8271,34.3659],[-89.0900,34.3823],[-89.2488,34.3768],[-89.2488,34.4973],[-89.2434,34.5849]]]]}}
+]}

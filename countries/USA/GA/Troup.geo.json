@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Troup","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.9385,33.2267],[-84.9385,33.2267],[-84.8618,33.2212],[-84.8618,33.1938],[-84.8618,32.8706],[-85.1850,32.8706],[-85.2342,33.1062],[-85.2342,33.1281],[-85.1192,33.1609],[-85.1083,33.1938],[-85.0864,33.1719]]]]}}
+]}

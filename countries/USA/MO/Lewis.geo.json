@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Lewis","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.9490,40.2590],[-91.4999,40.2481],[-91.5053,40.1988],[-91.4944,40.0345],[-91.4341,39.9469],[-91.7847,39.9469],[-91.8394,39.9469],[-91.9544,39.9469]]]]}}
+]}

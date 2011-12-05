@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Pierce","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.6007,44.8651],[-92.1352,44.8597],[-92.1352,44.6844],[-92.1352,44.5420],[-92.3159,44.5420],[-92.5460,44.5694],[-92.7322,44.7118],[-92.8034,44.7447],[-92.7705,44.8597]]]]}}
+]}

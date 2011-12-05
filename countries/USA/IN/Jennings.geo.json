@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Jennings","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.4424,39.1965],[-85.4424,38.9117],[-85.5355,38.9117],[-85.6122,38.8241],[-85.6834,38.8131],[-85.7929,38.8077],[-85.7984,39.0705],[-85.7984,39.1308],[-85.6888,39.1308],[-85.5683,39.1308]]]]}}
+]}

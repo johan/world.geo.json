@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Pasquotank","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.4930,36.5128],[-76.2302,36.3704],[-76.2137,36.3266],[-76.1809,36.3211],[-76.2192,36.2992],[-76.1370,36.2718],[-76.0494,36.1842],[-76.0713,36.1404],[-76.1918,36.1185],[-76.2904,36.2225],[-76.3726,36.2609],[-76.4547,36.3759]]]]}}
+]}

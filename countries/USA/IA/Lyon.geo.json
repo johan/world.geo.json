@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Lyon","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.4510,43.5014],[-96.0512,43.5014],[-95.8595,43.5014],[-95.8595,43.2549],[-96.5551,43.2604],[-96.5825,43.2987],[-96.5277,43.2987],[-96.5222,43.3864],[-96.5934,43.4357],[-96.5989,43.5014]]]]}}
+]}

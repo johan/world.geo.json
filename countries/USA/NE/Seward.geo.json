@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Seward","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.3492,41.0477],[-96.9111,41.0477],[-96.9111,40.6972],[-97.3657,40.6972],[-97.3657,41.0477]]]]}}
+]}

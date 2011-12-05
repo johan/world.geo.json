@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Williamsburg","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.7286,37.3070],[-76.6793,37.2686],[-76.6628,37.2522],[-76.7340,37.2522]]]]}}
+]}

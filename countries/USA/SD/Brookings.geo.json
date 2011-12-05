@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Brookings","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.4510,44.5420],[-96.4510,44.1970],[-96.6482,44.1970],[-96.8892,44.1970],[-97.1302,44.1970],[-97.1302,44.5420],[-96.8837,44.5420]]]]}}
+]}

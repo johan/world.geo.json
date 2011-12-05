@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Fredericksburg","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-77.5282,38.3093],[-77.4734,38.3202],[-77.4460,38.2819],[-77.4898,38.2709]]]]}}
+]}

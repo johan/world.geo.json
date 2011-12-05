@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Cheatham","state":"TN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.1183,36.4580],[-86.9869,36.3704],[-86.9157,36.3814],[-87.0526,36.0473],[-87.1840,36.0473],[-87.1512,36.1787],[-87.1950,36.2444],[-87.1512,36.3047],[-87.2881,36.3211],[-87.2826,36.3540]]]]}}
+]}

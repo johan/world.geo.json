@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Alamance","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.5327,36.2499],[-79.2589,36.2444],[-79.2479,35.8775],[-79.2370,35.8446],[-79.5437,35.8446],[-79.5437,35.8994],[-79.5327,36.2390]]]]}}
+]}

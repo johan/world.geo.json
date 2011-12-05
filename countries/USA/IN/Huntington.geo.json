@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Huntington","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.3766,41.0039],[-85.3328,41.0039],[-85.3383,40.9163],[-85.3328,40.6534],[-85.4478,40.6534],[-85.6395,40.6534],[-85.6450,41.0039]]]]}}
+]}

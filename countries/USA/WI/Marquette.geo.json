@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Marquette","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.1667,43.9834],[-89.1995,43.8136],[-89.1667,43.8081],[-89.1667,43.7643],[-89.2434,43.7643],[-89.2434,43.6438],[-89.5994,43.6438],[-89.5994,43.9834]]]]}}
+]}

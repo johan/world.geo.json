@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Hamlin","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.8837,44.8049],[-96.8837,44.5420],[-97.1302,44.5420],[-97.4916,44.5420],[-97.4916,44.8049]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Hardin","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.3780,37.5972],[-88.1315,37.5753],[-88.0603,37.5041],[-88.0877,37.4713],[-88.2794,37.4548],[-88.3561,37.4056],[-88.3616,37.4056],[-88.4163,37.4220],[-88.4109,37.5972]]]]}}
+]}

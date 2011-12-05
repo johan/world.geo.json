@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Columbia","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-73.3986,42.5046],[-73.3548,42.5101],[-73.5081,42.0883],[-73.4972,42.0500],[-73.5191,42.0500],[-73.5245,41.9788],[-73.9298,42.0774],[-73.9134,42.1267],[-73.7820,42.2800],[-73.7820,42.4662]]]]}}
+]}

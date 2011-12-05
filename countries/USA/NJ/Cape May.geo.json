@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NJ"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Cape May","state":"NJ"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-74.8609,39.3225],[-74.5487,39.2951],[-74.6473,39.2129],[-74.7952,38.9939],[-74.8664,38.9391],[-74.9650,38.9336],[-74.8883,39.1417],[-74.9157,39.1801],[-74.9266,39.2184]]]]}}
+]}

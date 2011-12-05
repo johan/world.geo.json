@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Johnson","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.6642,41.8638],[-91.3684,41.8583],[-91.3684,41.6009],[-91.3684,41.4256],[-91.4834,41.4256],[-91.5218,41.5133],[-91.7901,41.5133],[-91.8285,41.5133],[-91.8340,41.8638]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Douglas","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-104.9896,39.5689],[-104.6610,39.5635],[-104.6610,39.1308],[-104.9950,39.1308],[-105.0334,39.1308],[-105.3291,39.1308],[-105.2196,39.2622],[-105.1703,39.4046],[-105.1210,39.4320],[-105.1374,39.4704],[-105.0498,39.5635]]]]}}
+]}

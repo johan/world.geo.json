@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Harford","state":"MD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.2411,39.7223],[-76.2356,39.7223],[-76.0768,39.5416],[-76.1151,39.4977],[-76.0604,39.4485],[-76.2685,39.3553],[-76.2794,39.3006],[-76.2959,39.3499],[-76.3287,39.3553],[-76.4328,39.5032],[-76.5314,39.5470],[-76.5697,39.7223]]]]}}
+]}

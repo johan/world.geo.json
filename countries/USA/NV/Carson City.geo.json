@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NV"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Carson City","state":"NV"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-119.5801,39.1965],[-119.5528,39.0870],[-119.7499,39.0870],[-119.7609,39.1144],[-120.0019,39.1144],[-120.0019,39.1637],[-119.8814,39.1637],[-119.7116,39.2513],[-119.6513,39.1965]]]]}}
+]}

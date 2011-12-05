@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"FL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"DeSoto","state":"FL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.5811,27.3389],[-81.5647,27.3389],[-81.5647,27.0322],[-82.0412,27.0322],[-82.0576,27.0322],[-82.0576,27.2075],[-82.0576,27.3389]]]]}}
+]}

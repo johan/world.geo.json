@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Hamilton","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.5665,38.2654],[-101.5446,38.2654],[-101.5281,37.7342],[-102.0430,37.7396],[-102.0430,38.2600]]]]}}
+]}

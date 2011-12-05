@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"FL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Bay","state":"FL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.3821,30.5649],[-85.3876,30.2034],[-85.3876,29.9241],[-85.9955,30.2691],[-85.9901,30.3896],[-85.8531,30.4389],[-85.4862,30.4389],[-85.4862,30.5649],[-85.4369,30.5703]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Hancock","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.1877,40.6370],[-90.9029,40.6370],[-90.9084,40.2864],[-90.9138,40.1933],[-91.2041,40.1988],[-91.5053,40.1988],[-91.4999,40.2481],[-91.4177,40.3795],[-91.3739,40.4014],[-91.3629,40.5000],[-91.4013,40.5603],[-91.3082,40.6260]]]]}}
+]}

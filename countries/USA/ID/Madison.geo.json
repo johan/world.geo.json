@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"ID"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Madison","state":"ID"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-111.9781,43.9286],[-111.8357,43.9286],[-111.8357,43.8957],[-111.6988,43.8848],[-111.3976,43.9231],[-111.3976,43.6219],[-111.6276,43.6274],[-111.6276,43.6547],[-111.7645,43.6657],[-111.9069,43.7588],[-111.9836,43.7533]]]]}}
+]}

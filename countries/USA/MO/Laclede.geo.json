@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Laclede","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.8527,37.8930],[-92.6226,37.8930],[-92.5514,37.7999],[-92.4090,37.8601],[-92.4145,37.7123],[-92.2502,37.6465],[-92.2502,37.6027],[-92.2502,37.4713],[-92.6884,37.4822],[-92.8527,37.4822]]]]}}
+]}

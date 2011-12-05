@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Martin","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.7568,38.9062],[-86.6802,38.9062],[-86.6856,38.6872],[-86.6802,38.5283],[-86.9266,38.5064],[-86.9047,38.9062]]]]}}
+]}

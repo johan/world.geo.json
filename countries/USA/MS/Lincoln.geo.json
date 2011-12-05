@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Lincoln","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.3114,31.6986],[-90.2456,31.7150],[-90.2456,31.3481],[-90.2621,31.3481],[-90.3552,31.3481],[-90.5469,31.3481],[-90.6345,31.3481],[-90.6345,31.6110],[-90.7386,31.6110],[-90.7386,31.6986]]]]}}
+]}

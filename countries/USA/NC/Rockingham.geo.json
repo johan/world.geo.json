@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Rockingham","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.9654,36.5402],[-79.7135,36.5402],[-79.5108,36.5402],[-79.5327,36.2499],[-79.5327,36.2390],[-80.0366,36.2554],[-80.0257,36.5402]]]]}}
+]}

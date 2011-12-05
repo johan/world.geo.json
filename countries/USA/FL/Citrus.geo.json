@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"FL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Citrus","state":"FL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.5232,29.0423],[-82.4739,29.0532],[-82.3096,28.9601],[-82.1672,28.7903],[-82.2657,28.6698],[-82.6491,28.6917],[-82.6382,28.8780],[-82.7587,28.9930],[-82.7039,29.0313],[-82.6108,29.0094],[-82.5341,29.0423]]]]}}
+]}

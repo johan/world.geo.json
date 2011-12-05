@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Waushara","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.5994,44.2463],[-89.2269,44.2463],[-88.8874,44.2408],[-88.8874,43.9834],[-88.9367,43.9834],[-89.1667,43.9834],[-89.5994,43.9834]]]]}}
+]}

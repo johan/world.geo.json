@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Colquitt","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.9745,31.3371],[-83.6514,31.3316],[-83.5145,31.3262],[-83.5090,31.2057],[-83.5747,31.0797],[-83.5747,31.0359],[-83.7390,31.0359],[-84.0019,31.0414],[-84.0019,31.0797],[-84.0019,31.3371]]]]}}
+]}

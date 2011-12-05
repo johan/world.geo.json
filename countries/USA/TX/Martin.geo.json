@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Martin","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.6870,32.5256],[-101.6924,32.0874],[-101.7472,32.0874],[-101.7746,32.0874],[-101.9334,32.0874],[-102.2128,32.0874],[-102.2128,32.5256],[-102.2018,32.5256]]]]}}
+]}

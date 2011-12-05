@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Marion","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.7778,38.8241],[-88.6957,38.8241],[-88.7011,38.6050],[-88.7011,38.4736],[-88.9147,38.4790],[-89.1448,38.4736],[-89.1448,38.5009],[-89.1393,38.7365],[-89.1393,38.8241]]]]}}
+]}

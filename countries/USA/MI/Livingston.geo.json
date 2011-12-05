@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Livingston","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.6843,42.7839],[-83.6624,42.4334],[-84.1334,42.4224],[-84.1389,42.4224],[-84.1608,42.7784],[-83.9253,42.7784]]]]}}
+]}

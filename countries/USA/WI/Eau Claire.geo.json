@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Eau Claire","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.4999,44.8597],[-90.9248,44.8597],[-90.9248,44.5968],[-91.1658,44.5968],[-91.2863,44.5968],[-91.5272,44.5968],[-91.6477,44.5968],[-91.6477,44.6844],[-91.6532,44.8542]]]]}}
+]}

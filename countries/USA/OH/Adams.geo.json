@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Adams","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.3830,39.0541],[-83.2735,39.0158],[-83.2735,39.0103],[-83.2680,38.6160],[-83.3009,38.5995],[-83.3557,38.6543],[-83.5200,38.7036],[-83.6295,38.6817],[-83.6459,38.6379],[-83.7062,38.6379],[-83.6733,39.0213]]]]}}
+]}

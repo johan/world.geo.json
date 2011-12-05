@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Caroline","state":"MD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-75.7482,39.1417],[-75.7482,39.1417],[-75.7208,38.8296],[-75.7098,38.6379],[-75.7646,38.6872],[-75.8413,38.7036],[-75.9454,38.6762],[-76.0166,38.7310],[-75.8961,38.8131],[-75.9508,38.9172],[-75.9399,38.9774],[-75.8358,39.1089]]]]}}
+]}

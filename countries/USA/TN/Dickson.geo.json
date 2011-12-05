@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Dickson","state":"TN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.5127,36.3321],[-87.2881,36.3211],[-87.1512,36.3047],[-87.1950,36.2444],[-87.1512,36.1787],[-87.1840,36.0473],[-87.2059,35.9596],[-87.5127,35.9925],[-87.5346,35.9925],[-87.5674,36.1787]]]]}}
+]}

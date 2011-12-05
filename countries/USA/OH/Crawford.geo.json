@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Crawford","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.7258,40.9984],[-82.7258,40.7136],[-82.8573,40.7136],[-82.8573,40.7027],[-82.9777,40.7027],[-83.1092,40.7027],[-83.1147,40.9930],[-82.8299,40.9984]]]]}}
+]}

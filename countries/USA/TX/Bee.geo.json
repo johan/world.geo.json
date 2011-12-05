@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Bee","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.9353,28.7137],[-97.7764,28.6698],[-97.6943,28.5439],[-97.5628,28.5165],[-97.5519,28.4508],[-97.3766,28.3905],[-97.5409,28.1660],[-97.5683,28.1276],[-97.8203,28.1769],[-98.0886,28.6644],[-98.0065,28.6917]]]]}}
+]}

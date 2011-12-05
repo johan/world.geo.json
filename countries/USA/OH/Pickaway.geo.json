@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Pickaway","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.2461,39.8099],[-83.2461,39.8154],[-82.8244,39.7935],[-82.8408,39.5635],[-82.7313,39.5525],[-82.7422,39.4704],[-83.2680,39.5142],[-83.2516,39.6949]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WV"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Hampshire","state":"WV"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.6564,39.5361],[-78.4702,39.5142],[-78.3497,39.4649],[-78.3662,39.3608],[-78.3388,39.3499],[-78.4374,39.1965],[-78.4045,39.1691],[-78.5086,39.0870],[-78.5633,39.1308],[-78.6564,39.1253],[-78.9796,39.2403]]]]}}
+]}

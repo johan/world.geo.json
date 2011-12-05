@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Kingsbury","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.7326,44.5420],[-97.4916,44.5420],[-97.1302,44.5420],[-97.1302,44.1970],[-97.2178,44.1970],[-97.3711,44.1970],[-97.7271,44.1970],[-97.8476,44.1970],[-97.8531,44.1970],[-97.8531,44.5420]]]]}}
+]}

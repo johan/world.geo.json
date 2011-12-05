@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Martinsville","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.8833,36.7045],[-79.8395,36.7045],[-79.8285,36.6497],[-79.8942,36.6716]]]]}}
+]}

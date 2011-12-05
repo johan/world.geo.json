@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"LA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Jackson","state":"LA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.5788,32.4982],[-92.4145,32.4982],[-92.4145,32.4051],[-92.3105,32.3230],[-92.3105,32.2791],[-92.3105,32.1477],[-92.8143,32.1477],[-92.7760,32.2353],[-92.7760,32.4544],[-92.6226,32.4544],[-92.6226,32.4982]]]]}}
+]}

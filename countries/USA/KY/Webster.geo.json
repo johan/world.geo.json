@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Webster","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.4962,37.6465],[-87.4798,37.6027],[-87.3757,37.5699],[-87.8139,37.3508],[-87.8029,37.3782],[-87.8577,37.3782],[-87.8467,37.4220],[-87.9289,37.4110],[-87.9344,37.4822],[-87.7317,37.6356]]]]}}
+]}

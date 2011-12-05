@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Turner","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.9220,43.5014],[-96.9220,43.0851],[-97.1575,43.0851],[-97.1630,43.1673],[-97.3438,43.1673],[-97.3985,43.1673],[-97.4040,43.5014],[-97.1302,43.5014]]]]}}
+]}

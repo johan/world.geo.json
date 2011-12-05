@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Aguas Buenas","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.0650,18.3020],[-66.1197,18.2089],[-66.1416,18.1979],[-66.1471,18.2308],[-66.1690,18.2253],[-66.1909,18.2582],[-66.1416,18.2801],[-66.0814,18.2965]]]]}}
+]}

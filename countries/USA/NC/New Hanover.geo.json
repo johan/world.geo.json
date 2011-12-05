@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"New Hanover","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-77.9609,34.3768],[-77.8239,34.3878],[-77.7144,34.2947],[-77.8294,34.1632],[-77.9390,33.9277],[-77.9499,34.2344],[-78.0321,34.3330]]]]}}
+]}

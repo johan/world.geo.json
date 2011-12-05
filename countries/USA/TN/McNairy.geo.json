@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"McNairy","state":"TN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.3780,35.3736],[-88.3616,35.3791],[-88.3780,34.9957],[-88.4711,34.9957],[-88.7888,34.9957],[-88.7833,35.2476],[-88.7176,35.2476],[-88.6847,35.3188],[-88.6409,35.3079],[-88.6683,35.3353],[-88.5916,35.3791]]]]}}
+]}

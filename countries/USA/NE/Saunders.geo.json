@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Saunders","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.9056,41.4530],[-96.5715,41.4311],[-96.4729,41.3928],[-96.3579,41.2778],[-96.3634,41.2175],[-96.3250,41.1901],[-96.3196,41.0477],[-96.3470,41.0422],[-96.3470,41.0149],[-96.4620,41.0149],[-96.4620,41.0477],[-96.9111,41.0477]]]]}}
+]}

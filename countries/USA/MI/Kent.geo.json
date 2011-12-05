@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Kent","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.5245,43.2933],[-85.3109,43.2933],[-85.3109,43.1180],[-85.3109,42.7675],[-85.5464,42.7675],[-85.7819,42.7675],[-85.7929,43.2056],[-85.7929,43.2933],[-85.5629,43.2933]]]]}}
+]}

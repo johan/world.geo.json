@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Crane","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.7659,31.6493],[-102.3168,31.6493],[-102.3004,31.0852],[-102.3880,31.0852],[-102.4264,31.1235],[-102.4428,31.2111],[-102.5140,31.2604],[-102.5907,31.2604],[-102.6728,31.3316],[-102.7659,31.2933]]]]}}
+]}

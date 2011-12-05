@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Cameron","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.4209,41.6009],[-78.2019,41.6173],[-78.0485,41.4749],[-77.9883,41.4749],[-77.9883,41.3654],[-78.0923,41.2175],[-78.2347,41.2285],[-78.2566,41.4037],[-78.4209,41.4037]]]]}}
+]}

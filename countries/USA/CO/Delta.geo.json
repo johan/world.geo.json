@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Delta","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-107.5144,39.2129],[-107.5035,39.2184],[-107.4980,38.6707],[-108.0019,38.6707],[-108.3798,38.6707],[-108.3798,38.8296],[-108.1388,38.9062],[-108.0950,38.9774],[-107.9800,39.0596],[-107.8595,39.0815],[-107.7664,39.0432]]]]}}
+]}

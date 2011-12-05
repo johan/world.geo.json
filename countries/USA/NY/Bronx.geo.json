@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Bronx","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-73.9189,40.9108],[-73.9189,40.9163],[-73.7820,40.8834],[-73.7820,40.8396],[-73.8148,40.8341],[-73.7874,40.8013],[-73.8148,40.8067],[-73.9134,40.7958],[-73.9244,40.8779],[-73.9353,40.8834]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Toombs","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.4081,32.3558],[-82.3534,32.2901],[-82.2329,32.3175],[-82.1836,32.1641],[-82.2274,31.9122],[-82.4301,31.9670],[-82.4684,31.9670],[-82.4793,31.9724]]]]}}
+]}

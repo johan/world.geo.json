@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Trumbull","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.0006,41.5023],[-80.5186,41.5023],[-80.5186,41.4914],[-80.5186,41.1354],[-80.7870,41.1354],[-81.0006,41.1354],[-81.0006,41.3490]]]]}}
+]}

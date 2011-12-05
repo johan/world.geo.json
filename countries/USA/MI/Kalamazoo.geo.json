@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Kalamazoo","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.5410,42.4224],[-85.3000,42.4170],[-85.2945,42.0719],[-85.3000,42.0719],[-85.7655,42.0719],[-85.7655,42.4224]]]]}}
+]}

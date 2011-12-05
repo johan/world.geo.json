@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Isle of Wight","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.4821,36.9291],[-76.8983,36.6443],[-76.9093,36.6497],[-76.9257,36.7100],[-76.8162,36.8798],[-76.8600,36.9619],[-76.8490,36.9948],[-76.6957,37.0605],[-76.6738,37.1427],[-76.6628,37.0441],[-76.5862,37.0276]]]]}}
+]}

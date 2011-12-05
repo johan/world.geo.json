@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Benton","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.8887,42.2965],[-91.8285,42.2965],[-91.8340,41.8638],[-92.0640,41.8638],[-92.2995,41.8638],[-92.2995,42.2965],[-92.0640,42.2965]]]]}}
+]}

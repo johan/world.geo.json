@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Moca","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-67.0563,18.4608],[-67.0289,18.3951],[-67.0508,18.3075],[-67.1220,18.3239],[-67.1275,18.3184],[-67.1330,18.3896]]]]}}
+]}

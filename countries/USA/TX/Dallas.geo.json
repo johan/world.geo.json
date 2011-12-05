@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Dallas","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.8563,32.9857],[-96.8454,32.9857],[-96.5167,32.9802],[-96.5167,32.8159],[-96.5277,32.5475],[-97.0371,32.5475],[-97.0316,32.9857]]]]}}
+]}

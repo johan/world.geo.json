@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Hamilton","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.8750,40.2207],[-85.8641,40.2207],[-85.8641,39.9414],[-85.9353,39.9249],[-86.1106,39.9249],[-86.2420,39.9249],[-86.2420,40.1824],[-86.2420,40.2152]]]]}}
+]}

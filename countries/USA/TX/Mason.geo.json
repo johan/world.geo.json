@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Mason","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.4852,30.9428],[-99.0909,30.9428],[-98.9649,30.9209],[-98.9649,30.4991],[-99.3045,30.4991],[-99.4852,30.4991],[-99.4852,30.7127]]]]}}
+]}

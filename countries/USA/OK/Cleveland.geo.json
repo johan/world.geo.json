@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Cleveland","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.4259,35.3791],[-97.1411,35.3791],[-97.1411,34.9300],[-97.3383,34.9628],[-97.3547,35.0724],[-97.4040,35.0888],[-97.4095,35.1381],[-97.5628,35.2312],[-97.5738,35.2969],[-97.6724,35.3353],[-97.6724,35.3791]]]]}}
+]}

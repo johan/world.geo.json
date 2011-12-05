@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Tyrrell","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.0001,35.9049],[-76.0275,35.6694],[-76.1699,35.6968],[-76.2137,35.5982],[-76.2959,35.6091],[-76.2685,35.6913],[-76.3945,35.6968],[-76.4054,35.7899],[-76.3561,35.8611],[-76.3671,35.9432],[-76.0604,35.9925]]]]}}
+]}

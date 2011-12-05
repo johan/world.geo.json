@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Texas","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.9476,37.0003],[-100.9531,36.5019],[-101.0845,36.5019],[-101.6212,36.5019],[-101.8129,36.5019],[-102.0320,36.5019],[-102.0265,36.9948],[-101.5555,36.9948],[-101.0681,37.0003]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Nolan","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.1480,32.5201],[-100.1534,32.0820],[-100.2356,32.0820],[-100.6628,32.0874],[-100.6628,32.5256]]]]}}
+]}

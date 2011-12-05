@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Grenada","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.9280,33.9003],[-89.5063,33.8675],[-89.5063,33.7196],[-89.5063,33.6758],[-89.7856,33.6758],[-90.1142,33.6758],[-90.1306,33.6758],[-90.1361,33.7196],[-90.1361,33.8072],[-89.9280,33.8236]]]]}}
+]}

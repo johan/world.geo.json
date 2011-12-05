@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"McLennan","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.0809,31.8410],[-97.0371,31.8629],[-96.9330,31.7095],[-96.8015,31.5233],[-97.2780,31.2823],[-97.3438,31.2440],[-97.4040,31.3042],[-97.4204,31.3207],[-97.6067,31.5890],[-97.2780,31.7479]]]]}}
+]}

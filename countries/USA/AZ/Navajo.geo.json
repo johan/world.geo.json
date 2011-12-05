@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AZ"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Navajo","state":"AZ"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-110.0010,37.0003],[-110.0010,35.6639],[-109.8257,35.6639],[-109.8586,33.7798],[-109.8914,33.7798],[-109.8914,33.5662],[-110.0010,33.5772],[-110.0010,33.9989],[-110.7513,33.9989],[-110.7513,34.2618],[-110.7513,37.0057]]]]}}
+]}

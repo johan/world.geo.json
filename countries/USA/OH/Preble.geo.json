@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Preble","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.4839,39.9195],[-84.4784,39.5909],[-84.4784,39.5689],[-84.8125,39.5689],[-84.8125,39.7278],[-84.8125,39.9195]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Ford","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.8741,37.9149],[-99.5674,37.9149],[-99.5619,37.7342],[-99.5564,37.4658],[-100.0548,37.4713],[-100.1096,37.4768],[-100.2137,37.4768],[-100.2246,37.9149]]]]}}
+]}

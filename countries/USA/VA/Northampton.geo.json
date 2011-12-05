@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Northampton","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-75.9399,37.5480],[-75.7865,37.5315],[-75.8030,37.4603],[-75.6660,37.4658],[-75.7372,37.3344],[-75.7975,37.2960],[-75.8030,37.1974],[-75.8961,37.1208],[-75.9727,37.1208],[-76.0220,37.2905]]]]}}
+]}

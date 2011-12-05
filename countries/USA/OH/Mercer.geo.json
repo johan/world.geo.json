@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Mercer","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.7742,40.7301],[-84.4565,40.7301],[-84.4565,40.6862],[-84.4565,40.3576],[-84.4346,40.3522],[-84.4346,40.3522],[-84.4565,40.3522],[-84.8016,40.3522],[-84.8016,40.5712],[-84.8016,40.7301]]]]}}
+]}

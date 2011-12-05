@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WV"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Tucker","state":"WV"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.8121,39.2294],[-79.6861,39.2732],[-79.4889,39.1965],[-79.2972,39.1965],[-79.3575,39.0870],[-79.2972,39.0705],[-79.3027,39.0486],[-79.3575,38.9665],[-79.7573,39.0322],[-79.8230,39.1144]]]]}}
+]}

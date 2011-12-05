@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Cobb","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.6153,34.0811],[-84.4182,34.0756],[-84.3798,33.9715],[-84.4456,33.9113],[-84.4565,33.8236],[-84.5770,33.7415],[-84.6208,33.8072],[-84.7249,33.8072],[-84.7358,34.0811],[-84.6592,34.0756]]]]}}
+]}

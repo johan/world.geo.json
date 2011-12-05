@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Andrew","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.0434,40.1276],[-94.6053,40.1276],[-94.6053,40.0400],[-94.6053,39.8209],[-94.7696,39.8209],[-94.8791,39.8209],[-94.9394,39.8537],[-94.9339,39.8921],[-94.9942,39.8976],[-95.0106,40.0454],[-95.0599,40.0728]]]]}}
+]}

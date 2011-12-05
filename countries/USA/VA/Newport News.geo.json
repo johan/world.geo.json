@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Newport News","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.5588,37.2139],[-76.4328,37.0934],[-76.4438,37.0222],[-76.3890,36.9893],[-76.4164,36.9619],[-76.5259,37.0769],[-76.6190,37.1208],[-76.6135,37.1646],[-76.5807,37.1865],[-76.5916,37.2139]]]]}}
+]}

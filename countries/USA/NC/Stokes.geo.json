@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Stokes","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.4419,36.5512],[-80.0531,36.5402],[-80.0257,36.5402],[-80.0366,36.2554],[-80.0366,36.2554],[-80.4529,36.2609]]]]}}
+]}

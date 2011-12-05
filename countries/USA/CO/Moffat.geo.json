@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Moffat","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-107.9197,41.0039],[-107.3173,41.0039],[-107.3118,40.5986],[-107.3720,40.5986],[-107.3720,40.5438],[-107.4268,40.5438],[-107.4378,40.2207],[-109.0535,40.2207],[-109.0480,40.6534],[-109.0480,40.9984]]]]}}
+]}

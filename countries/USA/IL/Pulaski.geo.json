@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Pulaski","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.0462,37.3289],[-89.0462,37.2960],[-88.9312,37.3015],[-88.9257,37.2248],[-88.9367,37.2303],[-89.0298,37.2139],[-89.1722,37.0660],[-89.2707,37.1262],[-89.2653,37.2248],[-89.2050,37.2905],[-89.2488,37.3344]]]]}}
+]}

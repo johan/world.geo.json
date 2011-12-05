@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Milwaukee","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.9727,43.1947],[-87.8906,43.1947],[-87.9015,43.1235],[-87.8687,43.0742],[-87.8960,43.0304],[-87.8467,42.9647],[-87.8248,42.8442],[-87.9563,42.8442],[-88.0713,42.8442],[-88.0658,43.1947]]]]}}
+]}

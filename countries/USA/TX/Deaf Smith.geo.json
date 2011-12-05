@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Deaf Smith","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.5797,35.1874],[-102.1689,35.1819],[-102.1689,34.7492],[-102.5249,34.7492],[-103.0453,34.7492],[-103.0453,34.9519],[-103.0398,35.1819]]]]}}
+]}

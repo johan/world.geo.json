@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Chase","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.8180,38.5229],[-96.3524,38.5229],[-96.3579,38.1723],[-96.3579,38.0847],[-96.5222,38.0847],[-96.8399,38.0847]]]]}}
+]}

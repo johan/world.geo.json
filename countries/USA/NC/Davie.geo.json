@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Davie","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.6939,36.0528],[-80.4967,36.0473],[-80.4638,36.0637],[-80.3981,35.9706],[-80.3652,35.8939],[-80.4145,35.8830],[-80.3872,35.8446],[-80.4857,35.8337],[-80.4584,35.7406],[-80.6884,35.8611],[-80.7103,35.8501]]]]}}
+]}

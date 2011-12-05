@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Poinsett","state":"AR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.9303,35.7077],[-90.2895,35.7022],[-90.2895,35.4393],[-90.5031,35.4393],[-90.7440,35.4448],[-91.0398,35.4448],[-91.0343,35.7077]]]]}}
+]}

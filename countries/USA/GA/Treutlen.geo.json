@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Treutlen","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.5505,32.4982],[-82.3808,32.4380],[-82.4081,32.3558],[-82.6546,32.2956],[-82.7203,32.3120],[-82.7422,32.3394],[-82.6929,32.4544],[-82.6327,32.4927],[-82.6491,32.5146]]]]}}
+]}

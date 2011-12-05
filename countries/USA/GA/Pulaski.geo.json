@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Pulaski","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.6131,32.2901],[-83.4981,32.3996],[-83.3447,32.2737],[-83.3721,32.2518],[-83.2899,32.1806],[-83.3392,32.1039],[-83.3666,32.1313],[-83.6076,32.1203]]]]}}
+]}

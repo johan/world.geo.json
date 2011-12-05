@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NM"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Catron","state":"NM"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-108.9877,34.5795],[-107.7226,34.5795],[-107.7116,33.4786],[-108.0019,33.4786],[-108.0019,33.1993],[-108.1826,33.1993],[-109.0480,33.2102],[-109.0480,33.7798],[-109.0480,34.5795]]]]}}
+]}

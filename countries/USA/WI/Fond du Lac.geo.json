@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Fond du Lac","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.4054,43.9395],[-88.1589,43.9395],[-88.1644,43.8903],[-88.1589,43.5452],[-88.3999,43.5452],[-88.3999,43.6328],[-88.8874,43.6328],[-88.8874,43.8957],[-88.4054,43.8903]]]]}}
+]}

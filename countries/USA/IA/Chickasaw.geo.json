@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Chickasaw","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.2557,43.2111],[-92.0804,43.2111],[-92.0804,43.0851],[-92.0804,42.9044],[-92.3871,42.9099],[-92.5569,42.9044],[-92.5569,43.2111]]]]}}
+]}

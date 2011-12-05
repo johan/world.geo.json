@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Wythe","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.9129,37.0715],[-80.7432,36.8798],[-81.0444,36.8086],[-81.0882,36.7648],[-81.2635,36.7648],[-81.3785,36.9510],[-81.2251,37.0496],[-81.1156,37.0222]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Johnson","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.9736,39.6401],[-85.9517,39.6401],[-85.9517,39.3499],[-86.0832,39.3444],[-86.2530,39.3444],[-86.2475,39.6347]]]]}}
+]}

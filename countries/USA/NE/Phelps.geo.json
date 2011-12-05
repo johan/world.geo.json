@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Phelps","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.6441,40.6862],[-99.4195,40.6698],[-99.1785,40.6589],[-99.1785,40.3522],[-99.6331,40.3522],[-99.6441,40.3522]]]]}}
+]}

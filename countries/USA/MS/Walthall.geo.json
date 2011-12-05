@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Walthall","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.1909,31.3481],[-90.0430,31.3371],[-90.0047,31.1345],[-89.9389,31.1345],[-89.9225,31.0742],[-89.8349,31.0742],[-89.8349,31.0030],[-90.2621,31.0030],[-90.2621,31.3481],[-90.2456,31.3481]]]]}}
+]}

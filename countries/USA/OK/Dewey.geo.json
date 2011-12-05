@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Dewey","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.6363,36.1623],[-98.6308,35.8118],[-98.8171,35.8118],[-99.3757,35.8118],[-99.3812,36.0144],[-99.3812,36.1623],[-98.9540,36.1623]]]]}}
+]}

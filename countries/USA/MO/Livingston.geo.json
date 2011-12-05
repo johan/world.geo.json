@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Livingston","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.3620,39.9688],[-93.3675,39.7059],[-93.2689,39.7059],[-93.2799,39.6182],[-93.4223,39.6128],[-93.7564,39.6128],[-93.7564,39.7825],[-93.7618,39.9578]]]]}}
+]}

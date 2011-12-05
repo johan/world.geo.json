@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Susquehanna","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-75.8906,42.0007],[-75.4853,42.0007],[-75.4634,41.6392],[-75.7208,41.6447],[-76.1151,41.6502],[-76.1480,42.0007],[-76.1042,42.0007]]]]}}
+]}

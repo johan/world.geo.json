@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Monroe","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.6555,41.1627],[-92.6391,41.1627],[-92.6391,40.8998],[-93.0991,40.8998],[-93.0991,41.1627],[-92.8691,41.1627]]]]}}
+]}

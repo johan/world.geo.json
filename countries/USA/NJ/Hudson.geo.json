@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NJ"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Hudson","state":"NJ"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-74.0120,40.8232],[-73.9846,40.7958],[-74.0229,40.7082],[-74.0941,40.6479],[-74.1599,40.6424],[-74.1380,40.6753],[-74.1106,40.7027],[-74.1161,40.7410],[-74.1653,40.7410],[-74.1489,40.7848],[-74.0887,40.7629]]]]}}
+]}

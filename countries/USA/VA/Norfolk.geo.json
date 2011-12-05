@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Norfolk","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.1754,36.9291],[-76.1809,36.9236],[-76.1754,36.8524],[-76.2247,36.8414],[-76.2904,36.8195],[-76.3452,36.9181],[-76.2959,36.9674]]]]}}
+]}

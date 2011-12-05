@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"FL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Sarasota","state":"FL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.6272,27.3882],[-82.2548,27.3882],[-82.2548,27.2075],[-82.0576,27.2075],[-82.0576,27.0322],[-82.2548,27.0322],[-82.2548,26.9446],[-82.3753,26.9446],[-82.6437,27.3882]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Pamlico","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.6245,35.2531],[-76.6026,35.3353],[-76.4821,35.3134],[-76.4657,35.2586],[-76.6464,35.0176],[-76.7121,34.9793],[-76.8217,34.9519],[-76.9695,35.0395],[-76.9367,35.1052],[-76.9860,35.1545],[-76.8983,35.2531],[-76.8436,35.2148]]]]}}
+]}

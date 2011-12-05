@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Richland","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.1909,43.5562],[-90.1964,43.1618],[-90.2949,43.2056],[-90.4319,43.2002],[-90.5524,43.2056],[-90.6674,43.1728],[-90.6674,43.4247],[-90.6728,43.5507],[-90.3114,43.5562]]]]}}
+]}

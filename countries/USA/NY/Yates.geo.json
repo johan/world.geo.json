@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Yates","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.9750,42.7620],[-76.8983,42.6634],[-76.8929,42.5429],[-76.8874,42.4608],[-77.1065,42.4827],[-77.1065,42.5046],[-77.1503,42.4991],[-77.1448,42.5758],[-77.3639,42.5758],[-77.3694,42.6689],[-77.3146,42.7620]]]]}}
+]}

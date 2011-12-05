@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Crawford","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.6404,42.2088],[-95.3228,42.2088],[-95.0927,42.2088],[-95.0927,41.8638],[-95.3228,41.8638],[-95.5583,41.8638],[-95.6733,41.8638],[-95.6733,42.2088]]]]}}
+]}

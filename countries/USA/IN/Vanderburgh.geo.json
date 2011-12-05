@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Vanderburgh","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.6879,38.1669],[-87.4688,38.1669],[-87.4524,37.9423],[-87.5127,37.9040],[-87.6003,37.9752],[-87.6277,37.9204],[-87.5893,37.8601],[-87.6331,37.8273],[-87.6770,37.8328],[-87.6660,37.8930],[-87.6989,37.8985]]]]}}
+]}

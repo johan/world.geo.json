@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Iowa","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.0640,41.8638],[-91.8340,41.8638],[-91.8285,41.5133],[-91.9435,41.5133],[-92.2995,41.5078],[-92.2995,41.8638]]]]}}
+]}

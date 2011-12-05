@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Macon","state":"TN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.2037,36.6388],[-85.9791,36.6278],[-85.7874,36.6224],[-85.8148,36.5019],[-85.8258,36.4142],[-85.9791,36.4252],[-86.1708,36.4416],[-86.2310,36.4854]]]]}}
+]}

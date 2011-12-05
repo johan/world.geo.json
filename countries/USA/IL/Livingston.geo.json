@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Livingston","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.4109,41.1080],[-88.2520,41.1134],[-88.2466,40.9930],[-88.2356,40.6205],[-88.4602,40.6150],[-88.5752,40.6150],[-88.5861,40.7574],[-88.7121,40.7574],[-88.9312,40.7520],[-88.9312,40.9272],[-88.9312,41.1080],[-88.5861,41.1080]]]]}}
+]}

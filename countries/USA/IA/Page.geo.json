@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Page","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.2899,40.8998],[-94.9284,40.8998],[-94.9175,40.5767],[-95.1639,40.5767],[-95.2023,40.5767],[-95.3721,40.5822],[-95.3830,40.8998]]]]}}
+]}

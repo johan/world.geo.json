@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Whitley","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.6505,41.2942],[-85.3054,41.2668],[-85.3109,41.1792],[-85.3383,41.1792],[-85.3328,41.0039],[-85.3766,41.0039],[-85.6450,41.0039],[-85.6834,41.0039],[-85.6834,41.0477]]]]}}
+]}

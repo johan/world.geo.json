@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Hutchinson","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.6067,43.5014],[-97.4040,43.5014],[-97.3985,43.1673],[-97.6395,43.1673],[-97.7545,43.1673],[-98.0777,43.1673],[-98.1105,43.1947],[-98.1160,43.4959],[-97.9627,43.5014]]]]}}
+]}

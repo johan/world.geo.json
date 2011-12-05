@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Coal","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.0895,34.7657],[-96.0895,34.6780],[-96.0895,34.5083],[-96.1443,34.5083],[-96.1443,34.4206],[-96.4072,34.4206],[-96.5113,34.4206],[-96.5113,34.5028],[-96.5113,34.6780],[-96.4072,34.6780],[-96.4072,34.7657]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Mitchell","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.4884,39.5689],[-97.9298,39.5689],[-97.9298,39.3061],[-97.9298,39.2184],[-98.4775,39.2184],[-98.4884,39.2184]]]]}}
+]}

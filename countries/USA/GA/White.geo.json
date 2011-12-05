@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"White","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.7829,34.7931],[-83.6843,34.7985],[-83.6240,34.7328],[-83.6624,34.6561],[-83.6185,34.5411],[-83.6678,34.5028],[-83.7883,34.5137],[-83.8431,34.5028],[-83.8760,34.6287],[-83.8541,34.7219],[-83.8267,34.7766]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Catoosa","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.2671,34.9847],[-84.9823,34.9902],[-85.0152,34.8807],[-85.0590,34.8643],[-85.0590,34.8204],[-85.1302,34.8204],[-85.1466,34.7657],[-85.2014,34.7766],[-85.2014,34.8533],[-85.2671,34.8533]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WV"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Summers","state":"WV"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.8089,37.8711],[-80.6610,37.7342],[-80.8582,37.4275],[-80.8582,37.4275],[-81.0937,37.5863],[-80.9787,37.7123],[-80.8801,37.6849],[-80.9239,37.7451],[-80.8965,37.7725],[-80.9458,37.8218]]]]}}
+]}

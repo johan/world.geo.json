@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Elbert","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.7751,34.2892],[-82.7422,34.2070],[-82.5944,34.0153],[-82.5670,33.9551],[-82.6437,33.9825],[-82.7313,33.9825],[-82.7806,33.9715],[-82.9777,34.0427],[-83.1037,34.1687],[-83.0763,34.2289],[-82.9777,34.2125]]]]}}
+]}

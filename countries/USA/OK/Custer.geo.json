@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Custer","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.8171,35.8118],[-98.6308,35.8118],[-98.6254,35.5489],[-98.6254,35.4667],[-99.1676,35.4667],[-99.3647,35.4667],[-99.3647,35.5105],[-99.3757,35.8118]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Potter","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.2575,45.2485],[-99.7098,45.2431],[-99.5729,45.2431],[-99.5729,44.8980],[-99.6769,44.8980],[-100.4054,44.8980],[-100.4108,45.0075],[-100.2794,45.0240],[-100.3287,45.0897]]]]}}
+]}

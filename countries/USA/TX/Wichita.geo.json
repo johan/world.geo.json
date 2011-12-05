@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Wichita","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.6089,34.1577],[-98.4884,34.0646],[-98.4227,34.0811],[-98.4227,33.8346],[-98.4337,33.8346],[-98.9540,33.8346],[-98.9540,34.2125],[-98.8663,34.1523],[-98.8116,34.1577],[-98.7568,34.1249]]]]}}
+]}

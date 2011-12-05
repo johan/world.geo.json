@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Las Marías","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-67.0398,18.2910],[-66.9084,18.2527],[-66.8974,18.1870],[-66.9139,18.1924],[-67.0179,18.1979],[-67.0837,18.2527]]]]}}
+]}

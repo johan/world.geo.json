@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Clayton","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.5656,43.0797],[-91.1767,43.0797],[-91.1548,42.9866],[-91.0672,42.7511],[-90.8974,42.6744],[-90.8974,42.6579],[-91.1329,42.6470],[-91.2041,42.6470],[-91.6094,42.6415],[-91.6039,43.0797]]]]}}
+]}

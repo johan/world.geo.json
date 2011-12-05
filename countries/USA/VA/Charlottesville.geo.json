@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Charlottesville","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.4647,38.0683],[-78.4538,38.0245],[-78.5195,38.0080],[-78.5086,38.0573]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Kiowa","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.0430,38.6160],[-102.0430,38.2709],[-102.2128,38.2654],[-102.7440,38.2654],[-103.4013,38.2654],[-103.4998,38.2654],[-103.5053,38.5174],[-103.1712,38.5229],[-103.1712,38.6105]]]]}}
+]}

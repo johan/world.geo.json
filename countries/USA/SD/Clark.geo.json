@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Clark","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.9243,45.1554],[-97.4916,45.1500],[-97.4916,44.8049],[-97.4916,44.5420],[-97.7326,44.5420],[-97.8531,44.5420],[-97.8586,44.6296],[-97.9791,44.6296],[-97.9791,45.1554]]]]}}
+]}

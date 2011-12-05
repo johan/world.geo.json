@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"York","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.6574,37.3782],[-76.4985,37.2412],[-76.3890,37.2248],[-76.3999,37.1646],[-76.3945,37.1043],[-76.4328,37.0934],[-76.5588,37.2139],[-76.5916,37.2139],[-76.6793,37.2686],[-76.7286,37.3070],[-76.7450,37.3672]]]]}}
+]}

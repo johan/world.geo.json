@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Schenectady","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-74.0941,42.9537],[-73.9572,42.8989],[-73.9025,42.9099],[-73.8970,42.8496],[-73.8093,42.7784],[-74.1818,42.7291],[-74.2749,42.7127],[-74.3077,42.7511],[-74.2530,42.7620],[-74.2639,42.7949],[-74.0832,42.8989]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Crawford","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.9686,43.4247],[-90.6674,43.4247],[-90.6674,43.1728],[-91.0562,42.9920],[-91.1548,42.9866],[-91.1767,43.0797],[-91.1767,43.1344],[-91.0562,43.2549],[-91.1055,43.3152],[-91.2041,43.3535],[-91.2041,43.4247]]]]}}
+]}

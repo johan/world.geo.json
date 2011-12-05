@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Vermillion","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.4086,40.1276],[-87.4415,39.9633],[-87.4195,39.9523],[-87.4305,39.9304],[-87.3538,39.8647],[-87.3867,39.8318],[-87.3812,39.6073],[-87.5346,39.6073],[-87.5346,39.8811],[-87.5291,40.1495]]]]}}
+]}

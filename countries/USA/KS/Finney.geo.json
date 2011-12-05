@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Finney","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.8819,38.2654],[-100.6847,38.2654],[-100.2465,38.2600],[-100.2246,38.2600],[-100.2246,38.0025],[-100.6628,38.0025],[-100.6518,37.7342],[-101.0900,37.7342],[-101.1009,38.2654]]]]}}
+]}

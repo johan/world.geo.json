@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Lake","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.0006,41.8528],[-81.0060,41.7159],[-81.1046,41.7159],[-81.0992,41.6392],[-81.2963,41.6392],[-81.2963,41.5680],[-81.3894,41.5680],[-81.4880,41.5680],[-81.4880,41.6338],[-81.2854,41.7597]]]]}}
+]}

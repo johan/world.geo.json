@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Ottawa","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.7929,43.2056],[-85.7819,42.7675],[-86.0448,42.7675],[-86.2091,42.7675],[-86.2256,42.9866],[-86.2694,43.1180],[-85.9079,43.1180],[-85.9079,43.2056]]]]}}
+]}

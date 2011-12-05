@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Bledsoe","state":"TN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.2562,35.7680],[-85.2562,35.7680],[-84.9166,35.7625],[-85.1083,35.5708],[-85.1357,35.4558],[-85.1685,35.4558],[-85.2233,35.3517],[-85.4040,35.4941],[-85.4259,35.5653]]]]}}
+]}

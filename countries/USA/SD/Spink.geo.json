@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Spink","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.5323,45.2431],[-97.9791,45.2431],[-97.9791,45.1554],[-97.9791,44.6296],[-98.0886,44.6296],[-98.7075,44.6351],[-98.7185,44.8980],[-98.7185,45.2431]]]]}}
+]}

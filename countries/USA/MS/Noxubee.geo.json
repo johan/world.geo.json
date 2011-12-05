@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Noxubee","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.6683,33.2869],[-88.3068,33.2869],[-88.3397,32.9911],[-88.3451,32.9309],[-88.8107,32.9254],[-88.8107,33.2869]]]]}}
+]}

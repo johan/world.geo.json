@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Greenup","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.8134,38.5721],[-82.7258,38.5557],[-82.6656,38.5064],[-82.8189,38.3750],[-82.9723,38.3914],[-83.0489,38.4626],[-83.1640,38.5064],[-83.0763,38.5886],[-83.0325,38.7255],[-82.8792,38.7529],[-82.8518,38.6050]]]]}}
+]}

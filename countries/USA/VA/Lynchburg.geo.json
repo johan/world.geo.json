@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Lynchburg","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.1877,37.4658],[-79.1877,37.4658],[-79.0836,37.3946],[-79.2151,37.3344],[-79.2589,37.3563],[-79.2315,37.3946],[-79.2699,37.4494]]]]}}
+]}

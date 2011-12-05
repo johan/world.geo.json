@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Tattnall","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.2329,32.3175],[-82.0248,32.2791],[-81.9809,32.0820],[-81.7619,32.0491],[-81.8221,32.0162],[-81.9700,31.7917],[-82.0467,31.8246],[-82.1179,31.8629],[-82.1124,31.9012],[-82.2274,31.9122],[-82.1836,32.1641]]]]}}
+]}

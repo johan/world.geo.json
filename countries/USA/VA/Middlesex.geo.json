@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Middlesex","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.3561,37.5260],[-76.3561,37.5260],[-76.4383,37.5151],[-76.6300,37.5918],[-76.6519,37.6027],[-76.7505,37.7287],[-76.6847,37.7725],[-76.6190,37.7396],[-76.5423,37.6192],[-76.3014,37.5644]]]]}}
+]}

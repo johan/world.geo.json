@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Runnels","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.0548,32.0820],[-99.7153,32.0820],[-99.7208,31.5781],[-99.7262,31.5781],[-100.1096,31.5781],[-100.2356,31.5836],[-100.2356,31.6931],[-100.2356,32.0820],[-100.1534,32.0820]]]]}}
+]}

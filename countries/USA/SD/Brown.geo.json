@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Brown","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.7239,45.9386],[-98.0065,45.9386],[-97.9791,45.9386],[-97.9791,45.5881],[-97.9791,45.2431],[-98.5323,45.2431],[-98.7185,45.2431],[-98.7239,45.2431],[-98.7239,45.5936]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Cortland","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-75.9180,42.7894],[-75.8961,42.7894],[-75.8906,42.7237],[-75.8632,42.4170],[-76.1316,42.4115],[-76.2521,42.4060],[-76.2630,42.6251],[-76.2740,42.7730]]]]}}
+]}

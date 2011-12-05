@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Person","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.1384,36.5402],[-78.7988,36.5402],[-78.8043,36.2335],[-78.9522,36.2390],[-79.1548,36.2444]]]]}}
+]}

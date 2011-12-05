@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Thomas","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.3912,39.5689],[-100.7395,39.5689],[-100.7176,39.5689],[-100.7230,39.1308],[-100.7395,39.1308],[-100.8107,39.1308],[-101.3912,39.1363]]]]}}
+]}

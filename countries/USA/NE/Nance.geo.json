@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Nance","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.7162,41.5242],[-97.7052,41.3928],[-97.7052,41.3106],[-98.0558,41.2942],[-98.0996,41.2613],[-98.2748,41.2668],[-98.2858,41.3928],[-98.2913,41.3928],[-98.2913,41.4804],[-97.8312,41.5242]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Leake","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.4734,32.9309],[-89.3200,32.9309],[-89.3200,32.5749],[-89.3200,32.5749],[-89.7308,32.5749],[-89.7308,32.6351],[-89.7308,32.8871],[-89.7308,32.9309]]]]}}
+]}

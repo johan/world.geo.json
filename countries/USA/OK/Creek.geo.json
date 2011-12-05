@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Creek","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.6208,36.1623],[-96.2977,36.1623],[-96.2977,36.0747],[-96.0293,36.0747],[-96.0348,35.8556],[-96.1388,35.8556],[-96.1936,35.8556],[-96.1936,35.6365],[-96.4784,35.6365],[-96.6208,35.6365],[-96.6208,35.9432]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Berrien","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.3022,42.2417],[-86.2256,42.2417],[-86.2256,42.0719],[-86.2256,41.7597],[-86.5213,41.7597],[-86.8226,41.7597],[-86.6199,41.8912],[-86.4830,42.1157],[-86.3625,42.2417]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Alleghany","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.9787,36.5621],[-80.9020,36.5621],[-80.9787,36.4471],[-80.9677,36.4033],[-81.0280,36.3759],[-81.0827,36.4307],[-81.1649,36.4361],[-81.2525,36.3649],[-81.3511,36.5731]]]]}}
+]}

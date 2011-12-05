@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Sheridan","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.6683,39.5689],[-100.1808,39.5689],[-100.1644,39.5689],[-100.1644,39.1308],[-100.7230,39.1308],[-100.7176,39.5689]]]]}}
+]}

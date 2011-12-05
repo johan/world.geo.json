@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Fremont","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.5199,40.8998],[-95.3830,40.8998],[-95.3721,40.5822],[-95.7664,40.5877],[-95.7774,40.6479],[-95.8869,40.7191],[-95.8321,40.7848],[-95.8486,40.8615],[-95.8157,40.8998]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Ashtabula","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.5186,41.9788],[-80.5186,41.8474],[-80.5186,41.5023],[-81.0006,41.5023],[-81.0060,41.7159],[-81.0006,41.8528],[-80.5186,41.9788]]]]}}
+]}

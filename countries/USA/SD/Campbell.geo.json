@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Campbell","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.4328,45.9441],[-99.8796,45.9441],[-99.7208,45.9386],[-99.7153,45.5936],[-100.3396,45.5936],[-100.4328,45.5936],[-100.4054,45.6484],[-100.3232,45.6703],[-100.3068,45.7086],[-100.3889,45.8674],[-100.4985,45.9441]]]]}}
+]}

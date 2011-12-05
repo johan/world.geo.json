@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Sumner","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.3492,37.4768],[-97.1521,37.4768],[-97.1466,37.0003],[-97.4643,37.0003],[-97.6505,37.0003],[-97.8038,37.0003],[-97.8038,37.3891],[-97.8093,37.3836],[-97.8093,37.4768]]]]}}
+]}

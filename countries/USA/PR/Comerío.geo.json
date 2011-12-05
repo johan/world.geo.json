@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Comerío","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.2074,18.2746],[-66.1909,18.2582],[-66.1690,18.2253],[-66.2128,18.1705],[-66.2402,18.1870],[-66.2621,18.1870],[-66.2676,18.2472]]]]}}
+]}

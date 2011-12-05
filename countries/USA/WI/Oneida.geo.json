@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Oneida","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.2981,45.8729],[-89.1776,45.8565],[-89.1776,45.9003],[-89.0462,45.8948],[-89.0462,45.4621],[-89.2379,45.4676],[-89.4241,45.4676],[-89.4296,45.5552],[-90.0430,45.5552],[-90.0430,45.8948],[-89.2981,45.9003]]]]}}
+]}

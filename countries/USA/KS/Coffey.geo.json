@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Coffey","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.6569,38.4352],[-95.5090,38.4352],[-95.5090,38.3914],[-95.5199,38.0409],[-95.8102,38.0409],[-95.9581,38.0409],[-95.9581,38.1723],[-95.9526,38.4352]]]]}}
+]}

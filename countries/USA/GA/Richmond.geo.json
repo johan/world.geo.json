@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Richmond","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.0302,33.5443],[-82.0138,33.5334],[-81.9152,33.4403],[-81.9371,33.3471],[-81.8495,33.3088],[-81.8495,33.2486],[-82.0960,33.2321],[-82.1891,33.2924],[-82.2657,33.2650],[-82.3534,33.3143],[-82.2931,33.3526]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Ida","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.4652,42.5594],[-95.3885,42.5594],[-95.3885,42.4772],[-95.3228,42.4772],[-95.3228,42.2088],[-95.6404,42.2088],[-95.6733,42.2088],[-95.6678,42.4772],[-95.7445,42.4772],[-95.7390,42.5594]]]]}}
+]}

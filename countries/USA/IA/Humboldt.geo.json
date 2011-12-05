@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Humboldt","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.0905,42.9099],[-93.9700,42.9099],[-93.9700,42.6470],[-94.4410,42.6470],[-94.4410,42.9099]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Potter","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.2073,42.0007],[-77.7473,42.0007],[-77.6103,42.0007],[-77.5994,41.5406],[-77.5994,41.4804],[-77.7473,41.4749],[-77.9883,41.4749],[-78.0485,41.4749],[-78.2019,41.6173]]]]}}
+]}

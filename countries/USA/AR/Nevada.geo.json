@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Nevada","state":"AR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.4551,33.9551],[-93.3730,33.9551],[-93.2744,33.8346],[-93.1813,33.8017],[-93.1375,33.8182],[-93.1046,33.7798],[-93.1156,33.4512],[-93.2470,33.4403],[-93.3675,33.4457],[-93.4825,33.4457],[-93.4825,33.4786]]]]}}
+]}

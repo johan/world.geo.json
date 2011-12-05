@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Evans","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.0248,32.2791],[-81.9700,32.2682],[-81.8933,32.2737],[-81.8166,32.2353],[-81.7838,32.1532],[-81.7180,32.0874],[-81.7619,32.0491],[-81.9809,32.0820]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Labette","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.1256,37.3836],[-95.0873,37.3836],[-95.0763,37.3398],[-95.0708,37.0003],[-95.1530,37.0003],[-95.4104,37.0003],[-95.5199,37.0003],[-95.5199,37.3836]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Madison","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.6724,40.3795],[-85.5793,40.3795],[-85.5738,40.0783],[-85.5738,39.9469],[-85.6176,39.9469],[-85.8641,39.9414],[-85.8641,40.2207],[-85.8641,40.3795]]]]}}
+]}

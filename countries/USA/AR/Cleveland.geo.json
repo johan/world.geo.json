@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Cleveland","state":"AR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.0585,34.0646],[-91.9544,34.0646],[-91.9764,33.7908],[-91.9764,33.7031],[-92.3324,33.7086],[-92.3324,33.7963],[-92.3433,33.8401],[-92.4748,33.9715],[-92.4693,34.0591],[-92.3378,34.0591],[-92.2338,34.0646]]]]}}
+]}

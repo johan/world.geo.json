@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Echols","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.9723,30.8716],[-82.8463,30.8332],[-82.7970,30.7456],[-82.5889,30.7073],[-82.5834,30.5922],[-82.6875,30.5977],[-83.1366,30.6251],[-83.1311,30.7949],[-83.0873,30.8497],[-83.0216,30.8497]]]]}}
+]}

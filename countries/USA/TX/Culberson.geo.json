@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Culberson","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-104.8472,31.9998],[-104.0256,31.9998],[-104.1023,31.1071],[-104.9184,30.6634],[-104.9184,31.9998]]]]}}
+]}

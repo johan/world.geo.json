@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Allegan","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.0448,42.7675],[-85.7819,42.7675],[-85.5464,42.7675],[-85.5410,42.4224],[-85.7655,42.4224],[-85.7765,42.4224],[-86.2749,42.4170],[-86.2091,42.7675]]]]}}
+]}

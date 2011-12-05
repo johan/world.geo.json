@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Pierce","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.3657,42.4389],[-97.3657,42.3512],[-97.3657,42.0883],[-97.4259,42.0883],[-97.8367,42.0883],[-97.8367,42.4389],[-97.4862,42.4389]]]]}}
+]}

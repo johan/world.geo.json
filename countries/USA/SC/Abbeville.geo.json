@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Abbeville","state":"SC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.3260,34.4754],[-82.3150,34.4863],[-82.2438,34.4097],[-82.3369,34.3439],[-82.2384,34.1906],[-82.2657,34.1084],[-82.3260,34.0646],[-82.4848,34.0811],[-82.5944,34.0153],[-82.7422,34.2070]]]]}}
+]}

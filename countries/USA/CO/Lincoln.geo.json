@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Lincoln","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-103.7134,39.5689],[-103.7080,39.5689],[-103.1548,39.5635],[-103.1657,39.0377],[-103.1712,38.6105],[-103.1712,38.5229],[-103.5053,38.5174],[-104.0530,38.5229],[-104.0530,38.8679],[-103.7189,38.8679]]]]}}
+]}

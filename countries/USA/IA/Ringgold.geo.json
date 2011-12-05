@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Ringgold","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.3588,40.8998],[-94.0138,40.8944],[-94.0138,40.5712],[-94.2329,40.5712],[-94.2876,40.5712],[-94.4738,40.5712],[-94.4684,40.8998]]]]}}
+]}

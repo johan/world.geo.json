@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Ralls","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.6861,39.6840],[-91.3082,39.6840],[-91.1767,39.5963],[-91.1986,39.5963],[-91.4615,39.4485],[-91.4396,39.3170],[-91.7189,39.3389],[-91.7135,39.6566],[-91.7135,39.6840]]]]}}
+]}

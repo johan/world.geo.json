@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Bartow","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.9330,34.3987],[-84.6537,34.4151],[-84.6592,34.0756],[-84.7358,34.0811],[-84.9221,34.0811],[-85.0480,34.0975],[-85.0042,34.3932]]]]}}
+]}

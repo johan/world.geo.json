@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Pike","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.4949,33.1828],[-84.4510,33.2102],[-84.2484,33.1883],[-84.2703,32.9911],[-84.3634,32.9911],[-84.5277,32.9692]]]]}}
+]}

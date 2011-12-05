@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Sherman","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.0046,39.5689],[-101.4131,39.5689],[-101.3912,39.5689],[-101.3912,39.1363],[-101.4788,39.1363],[-102.0485,39.1308],[-102.0485,39.5689]]]]}}
+]}

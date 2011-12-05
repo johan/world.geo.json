@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Seminole","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.0261,31.0742],[-84.9221,31.0742],[-84.7304,31.0687],[-84.7687,30.8387],[-84.8618,30.7620],[-84.8618,30.7127],[-84.8673,30.7127],[-84.9166,30.7511],[-84.9330,30.8825],[-85.0042,31.0030]]]]}}
+]}

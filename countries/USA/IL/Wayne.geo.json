@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Wayne","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.5861,38.6050],[-88.2520,38.5995],[-88.1480,38.5995],[-88.1480,38.5667],[-88.1535,38.2545],[-88.3725,38.2545],[-88.5916,38.2545],[-88.7011,38.2545],[-88.7011,38.4736],[-88.7011,38.6050]]]]}}
+]}

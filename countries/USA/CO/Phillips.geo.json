@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Phillips","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.3278,40.7465],[-102.0539,40.7520],[-102.0539,40.6972],[-102.0539,40.4398],[-102.4264,40.4398],[-102.6673,40.4398],[-102.6509,40.7520]]]]}}
+]}

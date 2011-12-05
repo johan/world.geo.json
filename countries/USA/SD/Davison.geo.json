@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Davison","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.2036,43.8519],[-97.9681,43.8519],[-97.9627,43.5014],[-98.1160,43.4959],[-98.3187,43.5014],[-98.3241,43.8519]]]]}}
+]}

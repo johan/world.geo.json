@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Branch","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.0535,42.0719],[-84.8289,42.0719],[-84.8235,41.7597],[-85.1959,41.7597],[-85.2945,41.7597],[-85.2945,42.0719]]]]}}
+]}

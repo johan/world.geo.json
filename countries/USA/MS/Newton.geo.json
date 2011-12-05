@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Newton","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.1338,32.5749],[-88.9147,32.5749],[-88.9147,32.2244],[-89.0188,32.2244],[-89.3200,32.2244],[-89.3200,32.5749],[-89.3200,32.5749]]]]}}
+]}

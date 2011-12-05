@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Cherokee","state":"SC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.7673,35.1819],[-81.3675,35.1655],[-81.4004,35.1381],[-81.4113,35.0505],[-81.4880,35.0340],[-81.4552,34.8369],[-81.7126,34.9135],[-81.7564,34.9300],[-81.8769,35.1819]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Buchanan","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.9052,42.6415],[-91.6094,42.6415],[-91.5984,42.2965],[-91.7135,42.2965],[-91.8285,42.2965],[-91.8887,42.2965],[-92.0640,42.2965],[-92.0804,42.6415]]]]}}
+]}

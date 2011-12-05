@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Anoka","state":"MN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.1594,45.4128],[-93.0170,45.4128],[-93.0170,45.2978],[-93.0225,45.1226],[-93.2306,45.1226],[-93.2251,45.0349],[-93.2853,45.0349],[-93.2799,45.1007],[-93.3127,45.1445],[-93.5099,45.2431],[-93.5099,45.4128]]]]}}
+]}

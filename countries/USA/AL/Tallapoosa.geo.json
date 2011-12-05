@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Tallapoosa","state":"AL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.6560,33.1062],[-85.5957,33.1062],[-85.5957,32.7282],[-85.6943,32.6954],[-85.6943,32.5968],[-85.7984,32.5804],[-85.7984,32.4927],[-85.8860,32.4927],[-85.9134,32.6844],[-85.8805,32.7556],[-86.0065,32.7556],[-86.0065,33.0897]]]]}}
+]}

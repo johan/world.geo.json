@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Fayette","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.0804,43.0851],[-91.6039,43.0797],[-91.6094,42.6415],[-91.9052,42.6415],[-92.0804,42.6415],[-92.0804,42.9044]]]]}}
+]}

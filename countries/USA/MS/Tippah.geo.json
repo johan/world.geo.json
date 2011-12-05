@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Tippah","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.0188,34.9957],[-88.8216,34.9957],[-88.8216,34.8588],[-88.7504,34.8588],[-88.7504,34.7547],[-88.7176,34.7547],[-88.7340,34.5959],[-89.0900,34.5959],[-89.0900,34.8150],[-89.0352,34.8150],[-89.0188,34.8588]]]]}}
+]}

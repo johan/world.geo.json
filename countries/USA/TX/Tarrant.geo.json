@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Tarrant","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.5355,32.9966],[-97.3985,32.9911],[-97.0316,32.9857],[-97.0371,32.5475],[-97.0863,32.5475],[-97.5519,32.5530],[-97.5464,32.9966]]]]}}
+]}

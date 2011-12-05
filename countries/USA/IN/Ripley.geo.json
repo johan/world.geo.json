@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Ripley","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.0973,39.3115],[-85.0645,39.3061],[-85.1302,38.9501],[-85.1357,38.9281],[-85.2014,38.9117],[-85.3000,38.9117],[-85.4424,38.9117],[-85.4424,39.1965],[-85.2945,39.2677],[-85.2178,39.3061]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Chowan","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.6957,36.2937],[-76.5588,36.3540],[-76.5916,36.2390],[-76.5697,36.1075],[-76.4109,36.0747],[-76.5150,36.0035],[-76.6135,36.0363],[-76.6683,36.0199],[-76.7340,36.1459],[-76.7066,36.2444]]]]}}
+]}

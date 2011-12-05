@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Isabela","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-67.1056,18.5156],[-67.1056,18.5156],[-66.9577,18.4882],[-66.9686,18.4553],[-66.9194,18.3951],[-67.0125,18.3951],[-67.0289,18.3951],[-67.0563,18.4608]]]]}}
+]}

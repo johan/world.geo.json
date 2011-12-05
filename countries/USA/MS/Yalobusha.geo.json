@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Yalobusha","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.5117,34.1632],[-89.5063,33.8675],[-89.9280,33.9003],[-89.9335,34.1632],[-89.7199,34.1632],[-89.7199,34.1906],[-89.5117,34.1906]]]]}}
+]}

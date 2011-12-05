@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Sweetwater","state":"WY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-110.0557,42.2691],[-109.0425,42.2636],[-107.5254,42.2636],[-107.5090,41.6557],[-107.9307,41.6611],[-107.9197,41.0039],[-109.0480,40.9984],[-109.6778,40.9984],[-110.0010,40.9984],[-110.0503,40.9984],[-110.0503,41.5790]]]]}}
+]}

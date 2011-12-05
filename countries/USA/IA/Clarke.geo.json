@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Clarke","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.6742,41.1627],[-93.5592,41.1627],[-93.5592,40.8998],[-93.6633,40.8998],[-94.0138,40.8944],[-94.0138,41.1573],[-93.7892,41.1627]]]]}}
+]}

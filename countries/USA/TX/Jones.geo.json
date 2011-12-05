@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Jones","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.1096,32.9583],[-99.9891,32.9583],[-99.6112,32.9583],[-99.6112,32.5146],[-99.6276,32.5146],[-100.1370,32.5201],[-100.1480,32.5201],[-100.1425,32.9583]]]]}}
+]}

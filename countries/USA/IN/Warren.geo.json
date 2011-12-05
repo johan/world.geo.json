@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Warren","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.4524,40.4781],[-87.0964,40.4781],[-87.0909,40.3686],[-87.2552,40.2974],[-87.4195,40.1933],[-87.4415,40.1659],[-87.4086,40.1276],[-87.5291,40.1495],[-87.5291,40.4781]]]]}}
+]}

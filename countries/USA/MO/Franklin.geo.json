@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Franklin","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.9631,38.5502],[-90.8974,38.5393],[-90.7331,38.6379],[-90.7386,38.4736],[-90.7824,38.2052],[-91.0946,38.2052],[-91.3684,38.2107],[-91.3684,38.6981],[-91.3136,38.7091],[-91.2260,38.6214],[-91.0562,38.6105]]]]}}
+]}

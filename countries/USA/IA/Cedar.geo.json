@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Cedar","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.0124,41.9459],[-90.8974,41.9459],[-90.8974,41.7707],[-90.8974,41.5954],[-91.3082,41.5954],[-91.3684,41.6009],[-91.3684,41.8583],[-91.3684,41.9459]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Saline","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.4273,37.9094],[-88.3725,37.9094],[-88.3780,37.5972],[-88.4109,37.5972],[-88.7066,37.5972],[-88.7066,37.8656],[-88.7066,37.9094]]]]}}
+]}

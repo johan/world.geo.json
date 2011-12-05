@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Chattahoochee","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.6373,32.5366],[-84.6592,32.2353],[-84.9221,32.2298],[-84.8892,32.2627],[-85.0097,32.3284],[-84.9823,32.3722],[-84.7742,32.4215],[-84.6920,32.5201]]]]}}
+]}

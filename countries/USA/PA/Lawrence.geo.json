@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Lawrence","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.5186,41.1244],[-80.1462,41.1134],[-80.0969,41.0696],[-80.1626,40.9984],[-80.1571,40.8560],[-80.2557,40.8560],[-80.5186,40.8506],[-80.5186,40.8998]]]]}}
+]}

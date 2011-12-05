@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Fayette","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.4017,38.2052],[-84.3579,38.1942],[-84.3798,38.1121],[-84.2867,38.0683],[-84.3360,37.8930],[-84.3798,37.9040],[-84.3689,37.8547],[-84.4182,37.8711],[-84.4346,37.8492],[-84.4784,37.9423],[-84.6592,38.0025],[-84.6263,38.1176]]]]}}
+]}

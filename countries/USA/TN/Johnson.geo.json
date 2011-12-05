@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Johnson","state":"TN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.8276,36.6169],[-81.6468,36.6114],[-81.6797,36.5895],[-81.7345,36.3923],[-81.7071,36.3376],[-81.8002,36.3595],[-81.9207,36.2883],[-81.9316,36.2664],[-82.0576,36.3649],[-81.9481,36.4745],[-81.9864,36.5073]]]]}}
+]}

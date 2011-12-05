@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Monroe","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.7381,36.8414],[-85.5957,36.8195],[-85.5902,36.7757],[-85.4698,36.7319],[-85.4971,36.6881],[-85.4369,36.6169],[-85.7874,36.6224],[-85.9791,36.6278],[-85.9517,36.6607],[-85.9791,36.7209]]]]}}
+]}

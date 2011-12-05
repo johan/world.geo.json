@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Carson","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.0845,35.6256],[-101.0845,35.6201],[-101.0845,35.1819],[-101.6212,35.1819],[-101.6212,35.6201],[-101.6212,35.6256],[-101.0845,35.6256]]]]}}
+]}

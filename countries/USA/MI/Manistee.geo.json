@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Manistee","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.1818,44.5201],[-85.8148,44.5146],[-85.8203,44.1641],[-86.0448,44.1696],[-86.3844,44.1805],[-86.2694,44.3448],[-86.2310,44.5201]]]]}}
+]}

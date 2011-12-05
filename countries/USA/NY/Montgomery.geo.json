@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Montgomery","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-74.5816,42.9975],[-74.0996,42.9811],[-74.0941,42.9537],[-74.0832,42.8989],[-74.2639,42.7949],[-74.4556,42.7730],[-74.6473,42.8277],[-74.7623,42.8606],[-74.7404,42.9975],[-74.7623,43.0468]]]]}}
+]}

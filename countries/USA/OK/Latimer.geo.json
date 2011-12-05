@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Latimer","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.3337,35.0559],[-94.9284,35.0559],[-94.9284,34.9409],[-94.9996,34.9409],[-94.9996,34.8533],[-95.0599,34.8533],[-95.0599,34.6780],[-95.3118,34.6835],[-95.5145,34.6835],[-95.5090,35.0286],[-95.3502,35.0286],[-95.3502,35.0559]]]]}}
+]}

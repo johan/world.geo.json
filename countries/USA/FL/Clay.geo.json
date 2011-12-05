@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"FL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Clay","state":"FL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.7016,30.1924],[-81.6797,30.1212],[-81.6852,30.0226],[-81.6085,29.9679],[-81.5811,29.8419],[-81.8112,29.8364],[-81.9152,29.7926],[-81.9426,29.7488],[-82.0467,29.7159],[-82.0521,30.1431],[-82.0521,30.1869]]]]}}
+]}

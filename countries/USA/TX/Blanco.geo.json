@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Blanco","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.4118,30.5046],[-98.3515,30.4882],[-98.1270,30.4279],[-98.1708,30.3567],[-98.2967,30.0391],[-98.4118,29.9350],[-98.5870,30.1377],[-98.5925,30.4991]]]]}}
+]}

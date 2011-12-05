@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Simpson","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.6090,36.8852],[-86.5816,36.8305],[-86.4008,36.8086],[-86.4063,36.7757],[-86.4118,36.6497],[-86.5651,36.6333],[-86.7623,36.6497],[-86.6911,36.8414]]]]}}
+]}

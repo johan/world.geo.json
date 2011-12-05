@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Bedford","state":"TN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.5213,35.6913],[-86.4008,35.6201],[-86.3406,35.6639],[-86.2475,35.6310],[-86.2365,35.4558],[-86.2584,35.4120],[-86.4227,35.3188],[-86.5268,35.3572],[-86.5980,35.3627],[-86.6637,35.4558],[-86.6418,35.6858]]]]}}
+]}

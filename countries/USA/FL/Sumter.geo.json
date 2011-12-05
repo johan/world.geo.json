@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"FL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Sumter","state":"FL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.0138,28.9601],[-81.9536,28.9601],[-81.9590,28.3467],[-81.9590,28.3084],[-82.0576,28.3138],[-82.0576,28.4781],[-82.0631,28.5274],[-82.2164,28.5767],[-82.2657,28.6698],[-82.1672,28.7903],[-82.3096,28.9601]]]]}}
+]}

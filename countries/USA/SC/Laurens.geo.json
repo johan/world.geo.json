@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Laurens","state":"SC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.1452,34.7876],[-82.0686,34.6999],[-81.8550,34.5959],[-81.6414,34.5356],[-81.6468,34.5192],[-81.7838,34.3659],[-81.8933,34.3056],[-81.9426,34.2015],[-82.1672,34.3275],[-82.2438,34.4097],[-82.3150,34.4863],[-82.2384,34.5356]]]]}}
+]}

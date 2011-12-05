@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Durham","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.9522,36.2390],[-78.8043,36.2335],[-78.8043,36.0911],[-78.7495,36.0692],[-78.7550,36.0308],[-78.7003,36.0144],[-78.7331,35.9432],[-78.8043,35.9268],[-78.8317,35.8665],[-78.9084,35.8665],[-79.0179,35.8611]]]]}}
+]}

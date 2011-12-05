@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Marshall","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.4328,37.0496],[-88.3397,37.0605],[-88.2411,36.9838],[-88.1589,36.8688],[-88.1096,36.7483],[-88.4875,36.7483],[-88.4821,36.9400],[-88.4821,37.0222]]]]}}
+]}

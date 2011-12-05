@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Richland","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.9070,38.8515],[-87.9125,38.5721],[-87.9563,38.5721],[-88.0056,38.5721],[-88.1480,38.5667],[-88.1480,38.5995],[-88.2520,38.5995],[-88.2959,38.6379],[-88.2849,38.7310],[-88.2575,38.7310],[-88.2575,38.8460],[-87.9453,38.8515]]]]}}
+]}

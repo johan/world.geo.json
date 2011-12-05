@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Prentiss","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.7176,34.7547],[-88.3671,34.7547],[-88.3287,34.7383],[-88.3287,34.4644],[-88.4930,34.4644],[-88.5423,34.4644],[-88.5423,34.5083],[-88.6354,34.5083],[-88.7340,34.5083],[-88.7340,34.5959]]]]}}
+]}

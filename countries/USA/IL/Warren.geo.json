@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Warren","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.6674,41.0696],[-90.4373,41.0642],[-90.4428,40.7136],[-90.4428,40.6260],[-90.7879,40.6370],[-90.7879,41.0696]]]]}}
+]}

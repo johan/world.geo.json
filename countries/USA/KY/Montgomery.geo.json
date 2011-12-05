@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Montgomery","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.0403,38.1449],[-83.9800,38.1942],[-83.9636,38.1559],[-83.8595,38.1176],[-83.7609,37.9971],[-83.7664,37.9204],[-83.8541,37.9040],[-83.9691,37.9313],[-84.0786,38.1176]]]]}}
+]}

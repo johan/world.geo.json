@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WV"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Barbour","state":"WV"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.9764,39.2622],[-79.8942,39.3006],[-79.8121,39.2294],[-79.8230,39.1144],[-79.8942,38.9720],[-80.0859,38.9446],[-80.0531,38.9774],[-80.0531,39.0377],[-80.1297,39.0377],[-80.2283,39.1144],[-80.2228,39.1691],[-80.1681,39.2403]]]]}}
+]}

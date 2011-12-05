@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Edwards","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.3483,38.0025],[-99.0197,38.0025],[-99.0142,37.8273],[-99.0142,37.7342],[-99.5619,37.7342],[-99.5674,37.9149],[-99.5674,38.0847],[-99.3483,38.0902]]]]}}
+]}

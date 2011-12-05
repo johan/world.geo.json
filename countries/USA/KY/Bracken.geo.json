@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Bracken","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.0512,38.7693],[-83.9033,38.7693],[-83.9910,38.5941],[-84.0841,38.6105],[-84.1608,38.5557],[-84.2101,38.5502],[-84.2046,38.5831],[-84.2320,38.8296]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Clinton","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.2178,36.8524],[-85.2342,36.8852],[-85.1192,36.8250],[-85.0645,36.8579],[-85.0042,36.7538],[-85.0206,36.6936],[-84.9768,36.6169],[-85.2781,36.6278],[-85.2945,36.6278]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Garvin","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.4259,34.8533],[-96.9330,34.8533],[-96.9330,34.6342],[-97.0918,34.6397],[-97.2014,34.6233],[-97.1466,34.5083],[-97.3547,34.5083],[-97.5628,34.5083],[-97.5628,34.6835],[-97.6669,34.6835],[-97.6669,34.8533]]]]}}
+]}

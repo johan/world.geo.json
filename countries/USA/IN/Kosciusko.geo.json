@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Kosciusko","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.6560,41.4366],[-85.6505,41.2942],[-85.6834,41.0477],[-85.9462,41.0422],[-86.0174,41.0422],[-86.0174,41.0861],[-86.0777,41.0861],[-86.0777,41.1737],[-86.0558,41.1737],[-86.0613,41.4366]]]]}}
+]}

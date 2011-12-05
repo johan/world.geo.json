@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Hatillo","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.7660,18.4827],[-66.7715,18.3239],[-66.8262,18.3239],[-66.8262,18.3403],[-66.8372,18.4882]]]]}}
+]}

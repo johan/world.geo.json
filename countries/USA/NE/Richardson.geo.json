@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Richardson","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.6733,40.2645],[-95.5528,40.2645],[-95.4761,40.2426],[-95.4816,40.1878],[-95.3940,40.1221],[-95.4159,40.0400],[-95.3063,40.0016],[-95.3392,40.0016],[-95.7883,40.0016],[-96.0129,40.0016],[-96.0129,40.2590]]]]}}
+]}

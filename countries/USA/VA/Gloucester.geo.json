@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Gloucester","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.6300,37.5918],[-76.4383,37.5151],[-76.4492,37.4220],[-76.4054,37.4001],[-76.4438,37.3672],[-76.3506,37.2741],[-76.4985,37.2412],[-76.6574,37.3782],[-76.7121,37.4329],[-76.6464,37.4822],[-76.6519,37.6027]]]]}}
+]}

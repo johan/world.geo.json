@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Daviess","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.0964,38.9062],[-86.9047,38.9062],[-86.9266,38.5064],[-87.0745,38.5174],[-87.2443,38.5448],[-87.2388,38.6598],[-87.2771,38.6926],[-87.2388,38.7419],[-87.2443,38.8186],[-87.1457,38.8405]]]]}}
+]}

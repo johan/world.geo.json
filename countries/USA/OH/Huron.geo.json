@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Huron","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.8408,41.2887],[-82.3424,41.2832],[-82.3369,41.0642],[-82.3753,41.0642],[-82.4355,41.0642],[-82.4355,40.9930],[-82.6875,40.9930],[-82.7258,40.9984],[-82.8299,40.9984],[-82.8408,41.2558]]]]}}
+]}

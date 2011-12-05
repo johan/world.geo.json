@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Dundy","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.3255,40.3522],[-101.3255,40.3522],[-101.3255,40.0016],[-101.4131,40.0016],[-101.9061,40.0016],[-102.0539,40.0016],[-102.0539,40.3467],[-101.3419,40.3522]]]]}}
+]}

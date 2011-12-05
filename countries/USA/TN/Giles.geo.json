@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Giles","state":"TN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.1293,35.4558],[-86.9595,35.4174],[-86.9211,35.4065],[-86.9102,35.3188],[-86.8445,35.3188],[-86.8280,35.2641],[-86.8390,34.9902],[-87.2114,35.0012],[-87.2224,35.0012],[-87.2059,35.4339]]]]}}
+]}

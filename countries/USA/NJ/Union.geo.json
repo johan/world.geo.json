@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NJ"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Union","state":"NJ"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-74.3625,40.7355],[-74.1380,40.6753],[-74.1599,40.6424],[-74.2037,40.6315],[-74.2092,40.5931],[-74.2913,40.5931],[-74.4611,40.5986],[-74.4009,40.6643],[-74.4611,40.6753],[-74.3735,40.7410]]]]}}
+]}

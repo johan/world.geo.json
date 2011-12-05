@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Cowley","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.0809,37.4768],[-96.5277,37.4768],[-96.5222,37.3015],[-96.5277,37.0003],[-96.7303,37.0003],[-96.7522,37.0003],[-96.8673,37.0003],[-97.1466,37.0003],[-97.1521,37.4768]]]]}}
+]}

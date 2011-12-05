@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Sullivan","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.5784,39.2568],[-87.2388,39.2568],[-87.2388,39.1691],[-87.2388,38.9062],[-87.5346,38.9008],[-87.5127,38.9555],[-87.5784,38.9884],[-87.5729,39.0596],[-87.6331,39.1089],[-87.6441,39.1582],[-87.5784,39.2129],[-87.6058,39.2568]]]]}}
+]}

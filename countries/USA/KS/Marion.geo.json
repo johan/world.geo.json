@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Marion","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.2616,38.6105],[-96.9330,38.6105],[-96.9275,38.5229],[-96.8180,38.5229],[-96.8399,38.0847],[-97.1137,38.0847],[-97.1521,38.0902],[-97.1521,38.1723],[-97.3711,38.1723],[-97.3711,38.6105]]]]}}
+]}

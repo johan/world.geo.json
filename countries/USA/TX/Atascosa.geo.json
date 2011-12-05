@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Atascosa","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.8006,29.2504],[-98.4063,29.1135],[-98.1927,28.8834],[-98.0996,28.7849],[-98.3351,28.6151],[-98.3351,28.6425],[-98.5815,28.6425],[-98.8006,28.6370],[-98.8006,28.6479],[-98.8061,29.0916],[-98.8061,29.2504]]]]}}
+]}

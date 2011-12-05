@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Calvert","state":"MD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.6354,38.7693],[-76.6135,38.7200],[-76.5314,38.7145],[-76.5150,38.5283],[-76.3890,38.3859],[-76.4054,38.3202],[-76.4602,38.3093],[-76.4985,38.3695],[-76.6081,38.4243],[-76.6738,38.5009],[-76.6738,38.5338],[-76.6847,38.7474]]]]}}
+]}

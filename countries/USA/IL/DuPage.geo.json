@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"DuPage","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.9289,41.9952],[-87.9125,41.7159],[-88.0275,41.6830],[-88.0330,41.7269],[-88.2630,41.7269],[-88.2630,41.7269],[-88.2630,41.9843]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Bollinger","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.8623,37.5972],[-89.8677,37.1262],[-89.9608,37.1262],[-89.9608,37.0550],[-89.9937,37.0386],[-90.1087,37.0386],[-90.1087,37.0879],[-90.2237,37.0879],[-90.2183,37.3124],[-90.1471,37.3124],[-90.1471,37.5972]]]]}}
+]}

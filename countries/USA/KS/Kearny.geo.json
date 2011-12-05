@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Kearny","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.1228,38.2654],[-101.1009,38.2654],[-101.0900,37.7342],[-101.1721,37.7342],[-101.5281,37.7342],[-101.5446,38.2654]]]]}}
+]}

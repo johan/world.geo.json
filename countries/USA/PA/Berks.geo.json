@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Berks","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-75.8906,40.6753],[-75.5291,40.4453],[-75.6989,40.2426],[-75.8742,40.1385],[-76.1535,40.3138],[-76.4383,40.4946],[-76.0166,40.5767],[-75.9946,40.6424]]]]}}
+]}

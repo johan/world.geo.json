@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Zapata","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.3593,27.3061],[-99.3319,27.2732],[-98.9540,27.2677],[-98.9540,26.7858],[-99.0087,26.6762],[-99.1676,26.5722],[-99.2662,26.8405],[-99.4469,27.0213],[-99.4250,27.1746],[-99.4524,27.2623]]]]}}
+]}

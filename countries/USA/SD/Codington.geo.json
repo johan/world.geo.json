@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Codington","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.2342,45.1500],[-97.2287,45.1500],[-96.8837,45.1500],[-96.8837,44.9747],[-96.8837,44.8049],[-97.4916,44.8049],[-97.4916,45.1500]]]]}}
+]}

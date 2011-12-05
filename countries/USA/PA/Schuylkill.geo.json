@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Schuylkill","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.2082,40.9491],[-75.9946,40.9108],[-75.7591,40.7355],[-75.8906,40.6753],[-75.9946,40.6424],[-76.0166,40.5767],[-76.4383,40.4946],[-76.5369,40.5548],[-76.7012,40.6589],[-76.3780,40.7739],[-76.3068,40.8013],[-76.2849,40.8834]]]]}}
+]}

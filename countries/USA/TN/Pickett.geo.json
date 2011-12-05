@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Pickett","state":"TN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.2781,36.6278],[-84.9768,36.6169],[-84.7851,36.6059],[-84.7304,36.5238],[-84.9056,36.5785],[-85.0097,36.5676],[-85.0864,36.5019],[-85.1192,36.4088],[-85.1850,36.4909],[-85.2835,36.5347],[-85.2835,36.5292]]]]}}
+]}

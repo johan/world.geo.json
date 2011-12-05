@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Smith","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.4570,32.2244],[-89.3200,32.2244],[-89.3146,31.8026],[-89.4022,31.7972],[-89.6541,31.7807],[-89.6596,32.0491],[-89.7308,32.0491],[-89.7308,32.2244]]]]}}
+]}

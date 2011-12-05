@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Mills","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.6733,41.1573],[-95.3830,41.1573],[-95.3830,40.8998],[-95.5199,40.8998],[-95.8157,40.8998],[-95.8814,41.0532],[-95.8814,41.1573]]]]}}
+]}

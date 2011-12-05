@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Ellis","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.4086,39.1308],[-99.0471,39.1308],[-99.0361,39.1308],[-99.0416,38.6981],[-99.5838,38.6981],[-99.6003,38.6981],[-99.5893,39.1308]]]]}}
+]}

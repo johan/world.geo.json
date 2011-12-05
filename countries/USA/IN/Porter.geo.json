@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Porter","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.9321,41.7104],[-86.9321,41.2394],[-86.9704,41.2175],[-87.0362,41.2558],[-87.1293,41.2887],[-87.2169,41.2394],[-87.2224,41.6228]]]]}}
+]}

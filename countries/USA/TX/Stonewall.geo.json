@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Stonewall","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.1972,33.3964],[-99.9891,33.3964],[-99.9891,32.9583],[-100.1096,32.9583],[-100.1425,32.9583],[-100.5204,32.9638],[-100.5149,33.3964]]]]}}
+]}

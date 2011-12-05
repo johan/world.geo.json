@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Emmet","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.6765,43.5014],[-94.4410,43.5014],[-94.4410,43.2549],[-94.5889,43.2549],[-94.9120,43.2549],[-94.9175,43.5014],[-94.8518,43.5014]]]]}}
+]}

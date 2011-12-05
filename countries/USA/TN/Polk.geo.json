@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Polk","state":"TN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.6865,35.2531],[-84.4949,35.2860],[-84.3579,35.2312],[-84.3470,35.2038],[-84.2922,35.2093],[-84.3196,34.9902],[-84.6208,34.9902],[-84.7742,34.9902],[-84.6975,35.1710],[-84.7030,35.2422]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Decatur","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.5441,31.0797],[-84.5441,31.0797],[-84.5058,31.0797],[-84.3744,31.0797],[-84.3798,30.6908],[-84.8618,30.7127],[-84.8618,30.7620],[-84.7687,30.8387],[-84.7304,31.0687]]]]}}
+]}

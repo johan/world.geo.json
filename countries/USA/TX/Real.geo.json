@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Real","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.7591,30.0719],[-99.6879,30.0719],[-99.6934,29.9076],[-99.6003,29.9076],[-99.6057,29.6283],[-100.0165,29.6228],[-100.0165,29.6776],[-100.0658,29.7105],[-100.0275,29.7214],[-100.0329,29.8474],[-99.9672,30.0829]]]]}}
+]}

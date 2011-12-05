@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"DeKalb","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.2758,33.9551],[-84.2539,33.9113],[-84.0238,33.7524],[-84.1169,33.6155],[-84.1827,33.6484],[-84.2265,33.6374],[-84.2813,33.6484],[-84.3525,33.6484],[-84.3470,33.9660],[-84.2758,33.9551]]]]}}
+]}

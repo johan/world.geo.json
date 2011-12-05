@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Garrett","state":"MD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.9303,39.7223],[-79.0672,39.4758],[-79.2753,39.3280],[-79.4889,39.2075],[-79.4780,39.7223],[-79.3903,39.7223]]]]}}
+]}

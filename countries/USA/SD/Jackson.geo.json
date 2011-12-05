@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Jackson","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.4076,43.9943],[-101.0626,43.9943],[-101.0626,43.8410],[-101.2269,43.7971],[-101.2269,43.3919],[-101.9006,43.3919],[-102.1087,43.3919],[-102.1416,43.6986],[-102.0211,43.7095],[-102.0046,43.9943]]]]}}
+]}

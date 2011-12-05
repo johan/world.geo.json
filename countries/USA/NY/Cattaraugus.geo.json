@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Cattaraugus","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.0015,42.5320],[-78.8865,42.4389],[-78.4647,42.5374],[-78.3114,42.5210],[-78.3059,42.0007],[-78.9193,42.0007],[-79.0617,42.0007],[-79.0617,42.5374]]]]}}
+]}

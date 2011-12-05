@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Knox","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.3077,42.8825],[-98.1543,42.8387],[-98.0119,42.7620],[-97.9353,42.7784],[-97.8586,42.8661],[-97.6340,42.8496],[-97.4862,42.8496],[-97.4862,42.4389],[-97.8367,42.4389],[-98.3022,42.4389],[-98.3077,42.7620]]]]}}
+]}

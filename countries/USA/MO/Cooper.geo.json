@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Cooper","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.9184,39.0322],[-92.8417,38.9774],[-92.5569,38.9720],[-92.4967,38.9227],[-92.6172,38.6817],[-92.8417,38.6817],[-93.0608,38.6926],[-93.0498,38.9281],[-93.0498,38.9720],[-92.9348,39.0651]]]]}}
+]}

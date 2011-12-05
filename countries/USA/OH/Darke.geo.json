@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Darke","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.4565,40.3522],[-84.4346,40.3522],[-84.4346,40.1988],[-84.4237,39.9195],[-84.4839,39.9195],[-84.8125,39.9195],[-84.8125,40.0071],[-84.8016,40.3083],[-84.8016,40.3522]]]]}}
+]}

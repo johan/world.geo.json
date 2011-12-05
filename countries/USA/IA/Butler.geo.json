@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Butler","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.0225,42.9099],[-92.5569,42.9044],[-92.5569,42.6415],[-92.5514,42.5539],[-92.9074,42.5539],[-93.0279,42.5539]]]]}}
+]}

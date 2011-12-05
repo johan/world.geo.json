@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Dodge","state":"MN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.9184,44.1970],[-92.6774,44.1970],[-92.6884,43.8464],[-92.8801,43.8464],[-93.0444,43.8464],[-93.0444,44.1970],[-93.0389,44.1970]]]]}}
+]}

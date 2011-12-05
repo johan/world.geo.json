@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Unicoi","state":"TN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.3205,36.2609],[-82.2548,36.2335],[-82.2219,36.1568],[-82.4191,36.0747],[-82.5067,35.9761],[-82.6108,35.9651],[-82.6053,36.0418],[-82.5944,36.0966],[-82.5286,36.1513],[-82.4191,36.1623],[-82.3424,36.2554]]]]}}
+]}

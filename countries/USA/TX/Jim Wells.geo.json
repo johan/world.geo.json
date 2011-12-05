@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Jim Wells","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.2365,28.0564],[-97.8805,28.0564],[-97.8038,28.0400],[-97.7983,27.9962],[-97.9353,27.8866],[-97.9407,27.6347],[-98.0119,27.6347],[-98.0612,27.6347],[-98.0558,27.2623],[-98.2310,27.2623]]]]}}
+]}

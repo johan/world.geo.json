@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Van Zandt","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.0622,32.8378],[-95.9362,32.8378],[-95.8540,32.7721],[-95.6350,32.7228],[-95.5966,32.6844],[-95.5966,32.4818],[-95.4487,32.3558],[-96.0786,32.3558],[-96.0786,32.8378]]]]}}
+]}

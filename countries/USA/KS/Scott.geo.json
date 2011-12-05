@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Scott","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.1283,38.6981],[-100.8161,38.6981],[-100.6902,38.6981],[-100.6847,38.2654],[-100.8819,38.2654],[-101.1009,38.2654],[-101.1228,38.2654]]]]}}
+]}

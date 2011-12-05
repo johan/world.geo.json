@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Wahkiakum","state":"WA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-123.3592,46.3823],[-123.2168,46.3877],[-123.2113,46.1741],[-123.3647,46.1468],[-123.4304,46.1796],[-123.4249,46.2289],[-123.4688,46.2672],[-123.5454,46.2618],[-123.7262,46.2892],[-123.7262,46.3877]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Calhoun","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.8837,42.4224],[-84.7194,42.4224],[-84.7085,42.0719],[-84.8289,42.0719],[-85.0535,42.0719],[-85.2945,42.0719],[-85.3000,42.4170],[-85.0699,42.4224]]]]}}
+]}

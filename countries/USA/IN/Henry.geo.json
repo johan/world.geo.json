@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Henry","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.3274,40.0783],[-85.2123,40.0783],[-85.2014,40.0071],[-85.2233,39.7880],[-85.3000,39.7880],[-85.3219,39.7880],[-85.5957,39.7880],[-85.5738,39.9469],[-85.5738,40.0783]]]]}}
+]}

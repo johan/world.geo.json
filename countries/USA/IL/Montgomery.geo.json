@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Montgomery","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.5884,39.5251],[-89.5336,39.5251],[-89.5336,39.3499],[-89.1393,39.3499],[-89.1393,39.2184],[-89.2488,39.2184],[-89.2488,39.0267],[-89.5884,39.0267],[-89.5884,38.9993],[-89.6377,38.9993],[-89.6979,38.9993],[-89.7034,39.5251]]]]}}
+]}

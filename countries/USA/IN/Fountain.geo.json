@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Fountain","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.2552,40.2974],[-87.0909,40.3686],[-87.0909,40.2152],[-87.0909,39.9523],[-87.2059,39.9523],[-87.4195,39.9523],[-87.4415,39.9633],[-87.4086,40.1276],[-87.4415,40.1659],[-87.4195,40.1933]]]]}}
+]}

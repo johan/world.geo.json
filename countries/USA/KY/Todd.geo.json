@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Todd","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.2607,37.0715],[-87.2607,37.0715],[-87.2498,37.0386],[-87.0526,37.0605],[-87.0581,36.6443],[-87.1128,36.6443],[-87.3374,36.6443]]]]}}
+]}

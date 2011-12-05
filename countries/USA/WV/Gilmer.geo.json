@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WV"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Gilmer","state":"WV"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.7267,39.0979],[-80.7158,39.0103],[-80.6062,38.9062],[-80.9841,38.7200],[-81.0553,38.7912],[-81.0006,38.8460],[-81.0060,38.9610],[-81.0334,39.0103],[-80.8144,39.1089]]]]}}
+]}

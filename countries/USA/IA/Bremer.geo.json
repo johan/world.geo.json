@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Bremer","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.3871,42.9099],[-92.0804,42.9044],[-92.0804,42.6415],[-92.4693,42.6415],[-92.5569,42.6415],[-92.5569,42.9044]]]]}}
+]}

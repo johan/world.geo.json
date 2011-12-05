@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Franklin","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.1635,36.2499],[-78.1033,36.2116],[-78.0047,36.2006],[-78.0540,36.1349],[-78.2566,35.8172],[-78.3552,35.9323],[-78.5469,36.0199],[-78.4976,36.1732],[-78.4209,36.1623],[-78.3771,36.2335],[-78.3059,36.2664]]]]}}
+]}

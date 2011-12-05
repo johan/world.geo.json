@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Dade","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.4752,34.9847],[-85.3657,34.9847],[-85.5355,34.6233],[-85.5848,34.8588],[-85.6067,34.9847]]]]}}
+]}

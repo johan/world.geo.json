@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Box Butte","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.7714,42.4389],[-102.7495,42.4389],[-102.7440,42.0938],[-102.7002,42.0938],[-102.7002,42.0062],[-103.3629,42.0007],[-103.4013,42.0062],[-103.4013,42.0883],[-103.4451,42.0883],[-103.4451,42.4389]]]]}}
+]}

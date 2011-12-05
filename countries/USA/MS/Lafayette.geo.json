@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Lafayette","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.6267,34.5575],[-89.4789,34.5521],[-89.4351,34.5192],[-89.3310,34.5247],[-89.2488,34.4973],[-89.2488,34.3768],[-89.2434,34.1632],[-89.5117,34.1632],[-89.5117,34.1906],[-89.7199,34.1906],[-89.7199,34.5521],[-89.6706,34.5521]]]]}}
+]}

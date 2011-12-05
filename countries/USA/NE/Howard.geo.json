@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Howard","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.5213,41.3928],[-98.2913,41.3928],[-98.2858,41.3928],[-98.2858,41.0477],[-98.7020,41.0477],[-98.7239,41.0477],[-98.7459,41.0477],[-98.7459,41.3928]]]]}}
+]}

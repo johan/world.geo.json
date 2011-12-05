@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Teller","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-105.3291,39.1308],[-105.3291,39.1308],[-105.0334,39.1308],[-105.0279,38.8679],[-105.0662,38.8679],[-105.0717,38.7967],[-104.9403,38.7967],[-104.9403,38.6488],[-105.2415,38.6488],[-105.2360,38.6981],[-105.3291,38.6981]]]]}}
+]}

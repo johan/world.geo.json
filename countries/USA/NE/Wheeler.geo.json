@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Wheeler","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.3022,42.0883],[-98.2967,41.9131],[-98.2967,41.7433],[-98.5213,41.7433],[-98.7513,41.7378],[-98.7568,41.7378],[-98.7623,42.0883]]]]}}
+]}

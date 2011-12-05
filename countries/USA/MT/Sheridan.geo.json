@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MT"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Sheridan","state":"MT"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-104.0475,49.0002],[-104.0475,48.6333],[-104.0475,48.3868],[-104.6281,48.3868],[-104.6281,48.4745],[-104.7595,48.4745],[-104.7595,48.5621],[-104.9731,48.5621],[-104.9731,48.6497],[-105.0389,48.6497],[-105.0553,49.0002]]]]}}
+]}

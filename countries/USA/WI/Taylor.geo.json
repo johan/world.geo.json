@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Taylor","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.1690,45.3800],[-90.0430,45.3800],[-90.0430,45.1226],[-90.1964,45.1226],[-90.1964,45.0349],[-90.3168,45.0349],[-90.8152,45.0295],[-90.9248,45.0295],[-90.9248,45.2924],[-90.9248,45.3800],[-90.6783,45.3800]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WV"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Jefferson","state":"WV"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-77.8239,39.4923],[-77.8239,39.4923],[-77.7637,39.4977],[-77.8020,39.4375],[-77.7527,39.4211],[-77.7637,39.3389],[-77.7199,39.3225],[-77.8294,39.1308],[-78.0321,39.2622]]]]}}
+]}

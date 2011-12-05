@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Alamosa","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-105.7070,37.7506],[-105.4551,37.7506],[-105.4880,37.5753],[-105.7454,37.3563],[-106.0411,37.3563],[-106.0411,37.4001],[-106.0411,37.7506]]]]}}
+]}

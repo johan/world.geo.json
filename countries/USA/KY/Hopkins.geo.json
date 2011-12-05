@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Hopkins","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.3757,37.5699],[-87.3538,37.4275],[-87.2936,37.3891],[-87.3867,37.2741],[-87.3100,37.1920],[-87.3319,37.1591],[-87.5181,37.1043],[-87.6824,37.1481],[-87.8029,37.2412],[-87.7975,37.3179],[-87.8522,37.3179],[-87.8139,37.3508]]]]}}
+]}

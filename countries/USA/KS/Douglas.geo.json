@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Douglas","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.4980,39.0541],[-95.1858,39.0432],[-95.1858,38.9665],[-95.0873,38.9555],[-95.0544,38.9829],[-95.0544,38.7365],[-95.4980,38.7365],[-95.5035,38.7365],[-95.4980,38.8679]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Jefferson","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.8636,40.5986],[-80.6665,40.5822],[-80.5953,40.4726],[-80.6336,40.3960],[-80.6008,40.3193],[-80.6829,40.1878],[-80.7048,40.1550],[-80.8856,40.1605],[-80.8636,40.4234],[-80.9403,40.4234],[-80.9184,40.5548],[-80.8636,40.5548]]]]}}
+]}

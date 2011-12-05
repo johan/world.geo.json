@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Clifton Forge","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.8340,37.8273],[-79.8011,37.8163],[-79.8395,37.8054]]]]}}
+]}

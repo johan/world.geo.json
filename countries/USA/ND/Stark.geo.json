@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"ND"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Stark","state":"ND"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.1470,47.0121],[-102.1470,46.9792],[-102.0977,46.9792],[-102.0977,46.7164],[-102.0977,46.6287],[-102.1744,46.6287],[-102.9302,46.6287],[-103.2315,46.6287],[-103.2315,46.9792],[-103.0343,46.9792]]]]}}
+]}

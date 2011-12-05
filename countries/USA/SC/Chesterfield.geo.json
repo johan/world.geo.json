@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Chesterfield","state":"SC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.5624,34.8150],[-80.3214,34.8150],[-79.9271,34.8040],[-79.8723,34.6890],[-79.7792,34.6123],[-79.8285,34.5302],[-79.8668,34.5083],[-80.0476,34.4918],[-80.2886,34.3659],[-80.3872,34.5959],[-80.4091,34.6123]]]]}}
+]}

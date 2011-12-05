@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Panola","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.0978,34.5521],[-89.7199,34.5521],[-89.7199,34.1906],[-89.7199,34.1632],[-89.9335,34.1632],[-90.1361,34.1577],[-90.1361,34.2673],[-90.1964,34.3001],[-90.1964,34.5083],[-90.1964,34.5521]]]]}}
+]}

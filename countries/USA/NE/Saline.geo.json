@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Saline","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.3657,40.6972],[-96.9111,40.6972],[-96.9111,40.5219],[-96.9166,40.3522],[-97.3657,40.3522]]]]}}
+]}

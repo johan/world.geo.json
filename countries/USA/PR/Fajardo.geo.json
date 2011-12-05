@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Fajardo","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-65.6323,18.2856],[-65.7144,18.2691],[-65.7528,18.2965],[-65.6816,18.3239],[-65.6706,18.3622],[-65.6158,18.3841]]]]}}
+]}

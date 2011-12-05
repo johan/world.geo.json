@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Saluda","state":"SC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.7400,34.1851],[-81.5373,34.0811],[-81.4716,34.0756],[-81.5702,33.8784],[-81.6523,33.8127],[-81.8385,33.8675],[-81.8933,33.9770],[-82.0083,33.9606],[-81.8714,34.1358],[-81.8604,34.1796]]]]}}
+]}

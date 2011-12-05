@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"St. Croix","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.6500,45.2102],[-92.1571,45.2102],[-92.1352,44.8597],[-92.6007,44.8651],[-92.7705,44.8597],[-92.7596,45.0240],[-92.8034,45.0623],[-92.7377,45.1171],[-92.7596,45.2102]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Nicholas","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.0019,38.4407],[-83.9800,38.4407],[-83.9143,38.3585],[-83.8376,38.3366],[-83.8486,38.2983],[-83.9800,38.1942],[-83.9745,38.2216],[-84.0293,38.2161],[-84.0786,38.2709],[-84.1060,38.2600],[-84.1936,38.3695],[-84.1005,38.4571]]]]}}
+]}

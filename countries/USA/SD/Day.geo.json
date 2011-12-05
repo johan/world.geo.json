@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Day","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.9791,45.5881],[-97.3711,45.5881],[-97.3657,45.5607],[-97.2287,45.5607],[-97.2287,45.2978],[-97.2287,45.1500],[-97.2342,45.1500],[-97.4916,45.1500],[-97.9243,45.1554],[-97.9791,45.1554],[-97.9791,45.2431]]]]}}
+]}

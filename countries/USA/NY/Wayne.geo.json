@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Wayne","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.7231,43.3426],[-76.7121,43.0249],[-76.9641,43.0139],[-77.1229,43.0139],[-77.1338,43.0413],[-77.3694,43.0359],[-77.3748,43.2768],[-76.9586,43.2714]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"FL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Hernando","state":"FL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.2657,28.6698],[-82.2164,28.5767],[-82.0631,28.5274],[-82.0576,28.4781],[-82.2548,28.4781],[-82.2548,28.4343],[-82.6765,28.4343],[-82.6491,28.6917]]]]}}
+]}

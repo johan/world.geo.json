@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NV"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Storey","state":"NV"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-119.6897,39.5197],[-119.6240,39.5087],[-119.5473,39.5635],[-119.2844,39.6237],[-119.4761,39.3389],[-119.7116,39.2513],[-119.6568,39.3334],[-119.6842,39.3882],[-119.6568,39.4485],[-119.6952,39.4485]]]]}}
+]}

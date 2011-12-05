@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Franklin","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.8162,38.1285],[-88.7066,38.1230],[-88.7066,37.9094],[-88.7066,37.8656],[-88.7285,37.8656],[-89.1503,37.8601],[-89.1503,37.9478],[-89.1776,37.9478],[-89.1174,38.0628],[-89.1283,38.1230]]]]}}
+]}

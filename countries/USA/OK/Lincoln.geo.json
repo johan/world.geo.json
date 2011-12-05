@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Lincoln","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.0809,35.9432],[-96.6208,35.9432],[-96.6208,35.6365],[-96.6263,35.4612],[-97.1411,35.4667],[-97.1411,35.7241],[-97.1411,35.9432]]]]}}
+]}

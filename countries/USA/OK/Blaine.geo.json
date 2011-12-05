@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Blaine","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.4884,36.1623],[-98.2091,36.1623],[-98.2091,35.7241],[-98.3132,35.7241],[-98.3132,35.5489],[-98.5870,35.5489],[-98.6254,35.5489],[-98.6308,35.8118],[-98.6363,36.1623]]]]}}
+]}

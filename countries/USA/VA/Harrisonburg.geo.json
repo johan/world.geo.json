@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Harrisonburg","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.8700,38.4845],[-78.8262,38.4188],[-78.9139,38.3914],[-78.9139,38.4352]]]]}}
+]}

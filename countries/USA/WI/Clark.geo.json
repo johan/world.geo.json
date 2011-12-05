@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Clark","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.8152,45.0295],[-90.3168,45.0349],[-90.3168,44.6844],[-90.3168,44.4270],[-90.8043,44.4215],[-90.8043,44.5091],[-90.9248,44.5091],[-90.9248,44.5968],[-90.9248,44.8597],[-90.9248,45.0295]]]]}}
+]}

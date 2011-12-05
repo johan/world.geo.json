@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Radford","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.5788,37.0879],[-80.5953,37.1262],[-80.5296,37.1317],[-80.5076,37.1481]]]]}}
+]}

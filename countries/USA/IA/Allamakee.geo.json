@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Allamakee","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.3684,43.5014],[-91.2151,43.5014],[-91.2315,43.4576],[-91.2041,43.4247],[-91.2041,43.3535],[-91.1055,43.3152],[-91.0562,43.2549],[-91.1767,43.1344],[-91.1767,43.0797],[-91.5656,43.0797],[-91.6039,43.0797],[-91.6094,43.5014]]]]}}
+]}

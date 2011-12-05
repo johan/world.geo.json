@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Rockcastle","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.2320,37.5206],[-84.1991,37.5206],[-84.1389,37.3179],[-84.1389,37.3070],[-84.2155,37.2851],[-84.2867,37.1536],[-84.5003,37.3289],[-84.4456,37.4877],[-84.3744,37.4713],[-84.3470,37.5370]]]]}}
+]}

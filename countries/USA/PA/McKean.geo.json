@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"McKean","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.9193,42.0007],[-78.3059,42.0007],[-78.2073,42.0007],[-78.2019,41.6173],[-78.4209,41.6009],[-78.4812,41.6009],[-78.4812,41.6283],[-78.9577,41.6228]]]]}}
+]}

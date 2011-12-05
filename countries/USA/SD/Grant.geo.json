@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Grant","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.6810,45.3252],[-96.4729,45.3252],[-96.4565,45.3033],[-96.4510,45.2978],[-96.4510,45.2704],[-96.4510,44.9802],[-96.8837,44.9747],[-96.8837,45.1500],[-97.2287,45.1500],[-97.2287,45.2978]]]]}}
+]}

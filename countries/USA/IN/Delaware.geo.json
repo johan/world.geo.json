@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Delaware","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.5136,40.3795],[-85.4424,40.3795],[-85.2178,40.3795],[-85.2178,40.3083],[-85.2123,40.0783],[-85.3274,40.0783],[-85.5738,40.0783],[-85.5793,40.3795]]]]}}
+]}

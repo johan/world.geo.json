@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Chattooga","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.1083,34.5849],[-85.1795,34.4371],[-85.3383,34.3713],[-85.3876,34.2837],[-85.4643,34.2837],[-85.5136,34.5247],[-85.5300,34.5904]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Holmes","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.6578,40.6698],[-81.6523,40.6698],[-81.6523,40.6370],[-81.6688,40.4453],[-81.7071,40.4453],[-82.1836,40.4562],[-82.1781,40.5712],[-82.2219,40.5658],[-82.2219,40.6698],[-82.1288,40.6698]]]]}}
+]}

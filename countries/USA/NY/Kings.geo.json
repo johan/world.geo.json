@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Kings","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-73.9517,40.7410],[-73.8970,40.6808],[-73.8696,40.6972],[-73.8313,40.6315],[-73.8477,40.5877],[-73.9408,40.5658],[-74.0120,40.5767],[-74.0449,40.6260],[-74.0229,40.6808],[-73.9627,40.7355]]]]}}
+]}

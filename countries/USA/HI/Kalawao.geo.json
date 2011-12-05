@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"HI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Kalawao","state":"HI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-156.9164,21.1664],[-156.9000,21.1336],[-157.0150,21.1829],[-156.9767,21.2212]]]]}}
+]}

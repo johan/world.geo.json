@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Drew","state":"AR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.6642,33.7908],[-91.5601,33.7853],[-91.4506,33.7798],[-91.4560,33.5662],[-91.4560,33.3910],[-91.9928,33.3964],[-92.0147,33.4567],[-92.0092,33.5279],[-91.9764,33.5279],[-91.9764,33.7031],[-91.9764,33.7908]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Sunflower","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.4483,33.9879],[-90.4538,33.8127],[-90.4538,33.3307],[-90.5578,33.3307],[-90.5578,33.2705],[-90.7167,33.2705],[-90.7660,33.2705],[-90.7660,33.5279],[-90.7660,33.6155],[-90.6564,33.6155],[-90.6564,33.9879]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Switzerland","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.1357,38.9281],[-85.1411,38.9008],[-84.8728,38.9008],[-84.8016,38.8898],[-84.7961,38.8569],[-84.8289,38.8296],[-84.8125,38.7857],[-85.0261,38.7638],[-85.2014,38.6926],[-85.2014,38.9117]]]]}}
+]}

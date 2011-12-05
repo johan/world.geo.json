@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Sioux","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.5551,43.2604],[-95.8595,43.2549],[-95.8595,42.9099],[-96.1772,42.9099],[-96.5386,42.9099],[-96.4894,43.0085],[-96.5167,43.0413],[-96.4565,43.0851],[-96.4346,43.1235],[-96.4729,43.2221],[-96.5606,43.2221]]]]}}
+]}

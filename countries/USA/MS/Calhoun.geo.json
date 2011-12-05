@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Calhoun","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.5117,34.1632],[-89.2434,34.1632],[-89.2434,34.0756],[-89.1393,34.0756],[-89.1393,33.8127],[-89.1886,33.8127],[-89.1941,33.7360],[-89.5063,33.7196],[-89.5063,33.8675]]]]}}
+]}

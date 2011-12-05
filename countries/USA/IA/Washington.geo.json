@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Washington","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.7901,41.5133],[-91.5218,41.5133],[-91.4834,41.4256],[-91.4834,41.1627],[-91.5984,41.1627],[-91.7135,41.1627],[-91.9435,41.1627],[-91.9435,41.5133],[-91.8285,41.5133]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Greene","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.4602,31.4357],[-88.4492,31.4357],[-88.4328,31.1126],[-88.4273,30.9975],[-88.6792,30.9975],[-88.8326,30.9975],[-88.8435,31.4357]]]]}}
+]}

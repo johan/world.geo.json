@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NJ"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Middlesex","state":"NJ"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-74.2913,40.5931],[-74.2092,40.5931],[-74.2749,40.4891],[-74.2256,40.4507],[-74.3954,40.2810],[-74.4830,40.2536],[-74.6199,40.3248],[-74.6199,40.3741],[-74.4611,40.4891],[-74.5268,40.5603],[-74.4611,40.5986]]]]}}
+]}

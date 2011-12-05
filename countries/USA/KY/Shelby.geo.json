@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Shelby","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.2835,38.3585],[-84.9987,38.3366],[-84.9549,38.3312],[-84.9987,38.2764],[-85.0261,38.1285],[-85.1028,38.0354],[-85.4259,38.1449],[-85.4040,38.2654],[-85.4698,38.2873],[-85.3219,38.3093]]]]}}
+]}

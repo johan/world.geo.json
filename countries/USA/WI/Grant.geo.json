@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Grant","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.5524,43.2056],[-90.4319,43.2002],[-90.4264,42.8113],[-90.4264,42.5046],[-90.6400,42.5101],[-90.7112,42.6360],[-90.8974,42.6744],[-91.0672,42.7511],[-91.1548,42.9866],[-91.0562,42.9920],[-90.6674,43.1728]]]]}}
+]}

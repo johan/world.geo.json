@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Brown","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.7883,40.0016],[-95.3392,40.0016],[-95.3392,39.6511],[-95.3940,39.6511],[-95.5638,39.6511],[-95.7281,39.6511],[-95.7883,39.6511]]]]}}
+]}

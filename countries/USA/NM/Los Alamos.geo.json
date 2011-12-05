@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NM"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Los Alamos","state":"NM"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-106.2493,35.9651],[-106.2438,35.9323],[-106.2493,35.8556],[-106.2766,35.8556],[-106.2493,35.8392],[-106.1726,35.8282],[-106.2493,35.7570],[-106.2821,35.7899],[-106.4190,35.8172],[-106.3971,35.9596]]]]}}
+]}

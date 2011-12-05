@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Dallas","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.1265,37.9040],[-93.0717,37.9040],[-92.8527,37.8930],[-92.8527,37.4822],[-93.0717,37.4877],[-93.0717,37.4165],[-93.1813,37.4165],[-93.1868,37.8054],[-93.1813,37.9040]]]]}}
+]}

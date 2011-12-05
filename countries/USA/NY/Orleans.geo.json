@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Orleans","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-77.9937,43.3645],[-77.9992,43.1344],[-78.4647,43.1290],[-78.4647,43.3699]]]]}}
+]}

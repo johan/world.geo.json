@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Eaton","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.8344,42.7730],[-84.6044,42.7675],[-84.5989,42.4224],[-84.7194,42.4224],[-84.8837,42.4224],[-85.0699,42.4224],[-85.0754,42.7730]]]]}}
+]}

@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Collin","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.8344,33.4074],[-96.8344,33.4074],[-96.3853,33.3964],[-96.3853,33.3417],[-96.2977,33.3526],[-96.2977,32.9802],[-96.4401,32.9802],[-96.5167,32.9802],[-96.8454,32.9857]]]]}}
+{"type":"Feature","properties":{"kind":"county","name":"Collingsworth","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.0932,35.1819],[-100.0001,35.1819],[-100.0001,35.0286],[-100.0001,34.7438],[-100.4163,34.7492],[-100.5423,34.7492],[-100.5368,35.1819]]]]}}
+]}

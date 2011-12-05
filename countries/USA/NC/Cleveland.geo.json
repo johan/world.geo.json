@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Cleveland","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.5866,35.5653],[-81.5373,35.5653],[-81.4552,35.4174],[-81.3182,35.2586],[-81.3292,35.1655],[-81.3675,35.1655],[-81.7673,35.1819],[-81.7016,35.3572],[-81.6907,35.5817]]]]}}
+]}

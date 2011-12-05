@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Thayer","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.5026,40.3522],[-97.3657,40.3522],[-97.3711,40.0016],[-97.8203,40.0016],[-97.8203,40.3522]]]]}}
+]}

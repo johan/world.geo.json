@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Wells","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.1083,40.9163],[-85.0754,40.9163],[-85.0699,40.5658],[-85.2014,40.5658],[-85.2233,40.5658],[-85.4478,40.5658],[-85.4478,40.6534],[-85.3328,40.6534],[-85.3383,40.9163]]]]}}
+]}

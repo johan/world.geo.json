@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Marshall","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.8531,45.9332],[-97.2287,45.9332],[-97.2287,45.5607],[-97.3657,45.5607],[-97.3711,45.5881],[-97.9791,45.5881],[-97.9791,45.9386]]]]}}
+]}

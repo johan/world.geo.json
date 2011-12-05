@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"FL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Okaloosa","state":"FL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.6856,30.9921],[-86.3899,30.9921],[-86.3954,30.3786],[-86.8006,30.3841],[-86.7842,30.9975]]]]}}
+]}

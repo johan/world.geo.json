@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Boone","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.9134,41.9186],[-97.8312,41.9186],[-97.8312,41.7433],[-97.8312,41.5242],[-98.2913,41.4804],[-98.2967,41.7433],[-98.2967,41.9131]]]]}}
+]}

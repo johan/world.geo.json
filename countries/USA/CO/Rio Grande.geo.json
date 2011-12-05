@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Rio Grande","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-106.6929,37.8328],[-106.5888,37.8328],[-106.5888,37.7451],[-106.0411,37.7506],[-106.0411,37.4001],[-106.5231,37.4001],[-106.6765,37.4056],[-106.7093,37.4056]]]]}}
+]}

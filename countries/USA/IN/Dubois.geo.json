@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Dubois","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.6802,38.5283],[-86.6802,38.3969],[-86.6802,38.2654],[-86.7897,38.2490],[-86.7897,38.2052],[-86.8664,38.2052],[-87.0197,38.2052],[-87.0745,38.2052],[-87.0745,38.2326],[-87.0745,38.5174],[-86.9266,38.5064]]]]}}
+]}

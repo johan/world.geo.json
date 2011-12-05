@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Fulton","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.1361,40.1659],[-77.8623,40.0619],[-78.0978,39.7223],[-78.2840,39.7223],[-78.3443,39.7223],[-78.3826,39.7223],[-78.2019,40.0126],[-78.1799,40.0564],[-78.2073,40.0893]]]]}}
+]}

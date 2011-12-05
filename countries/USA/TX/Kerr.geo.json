@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Kerr","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.6057,30.2910],[-99.3045,30.2855],[-99.2990,30.1322],[-98.9211,30.1377],[-98.9156,29.7817],[-99.1785,29.8967],[-99.6003,29.9076],[-99.6934,29.9076],[-99.6879,30.0719],[-99.7591,30.0719],[-99.7536,30.2910]]]]}}
+]}

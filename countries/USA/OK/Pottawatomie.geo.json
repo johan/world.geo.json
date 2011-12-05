@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Pottawatomie","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.1411,35.4667],[-96.6263,35.4612],[-96.6263,35.4010],[-96.7742,35.4120],[-96.7742,34.9026],[-96.8180,34.9464],[-96.8837,34.9245],[-96.9330,34.9628],[-97.0151,34.9081],[-97.1411,34.9300],[-97.1411,35.3791]]]]}}
+]}

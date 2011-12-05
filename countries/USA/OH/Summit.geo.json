@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Summit","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.5373,41.3490],[-81.3894,41.3490],[-81.3949,40.9875],[-81.4168,40.9875],[-81.4223,40.9053],[-81.6468,40.9163],[-81.6468,40.9875],[-81.6907,40.9875],[-81.6852,41.2778],[-81.5647,41.2778],[-81.5976,41.3490]]]]}}
+]}

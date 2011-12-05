@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Moniteau","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.4638,38.8624],[-92.3817,38.8131],[-92.3926,38.7365],[-92.4967,38.4297],[-92.6117,38.4297],[-92.6226,38.4297],[-92.8417,38.5995],[-92.8417,38.6817],[-92.6172,38.6817],[-92.4967,38.9227]]]]}}
+]}

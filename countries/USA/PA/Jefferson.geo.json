@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Jefferson","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.9577,41.3709],[-78.7331,41.2613],[-78.7112,41.2011],[-78.7660,41.2011],[-78.8043,41.1299],[-78.8043,40.9053],[-79.2151,40.9108],[-79.2151,41.0532],[-79.2096,41.3325],[-79.0946,41.3435]]]]}}
+]}

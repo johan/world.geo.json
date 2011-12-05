@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Paulding","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.9221,34.0811],[-84.7358,34.0811],[-84.7249,33.8072],[-84.9002,33.7798],[-85.0371,33.8127],[-85.0480,33.9058],[-85.0480,33.9551],[-84.9768,33.9496]]]]}}
+]}

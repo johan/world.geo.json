@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Hillsdale","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.3634,42.0719],[-84.3579,41.7050],[-84.4017,41.7050],[-84.8070,41.6940],[-84.8235,41.7597],[-84.8289,42.0719],[-84.7085,42.0719]]]]}}
+]}

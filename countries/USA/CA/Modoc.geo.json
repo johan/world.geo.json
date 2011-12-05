@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Modoc","state":"CA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-121.3163,41.9952],[-120.8782,41.9952],[-120.0019,41.9952],[-120.0019,41.1846],[-120.9439,41.1846],[-121.3328,41.1846],[-121.4478,41.1846],[-121.4478,41.9952]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Mecklenburg","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.4757,36.8852],[-78.0266,36.7757],[-78.0485,36.5457],[-78.3223,36.5457],[-78.4593,36.5402],[-78.4702,36.5402],[-78.7331,36.5402],[-78.6893,36.6826],[-78.6510,36.6881],[-78.5524,36.6278],[-78.6510,36.6990],[-78.4921,36.8907]]]]}}
+]}

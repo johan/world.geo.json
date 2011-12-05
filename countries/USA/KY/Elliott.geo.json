@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Elliott","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.9230,38.1778],[-82.8901,38.1121],[-83.0216,38.0080],[-83.2023,38.0135],[-83.2680,38.0573],[-83.2625,38.1176],[-83.1968,38.1669],[-83.2625,38.1888],[-83.2461,38.1942],[-83.1749,38.2654],[-83.0489,38.1778],[-83.0106,38.2052]]]]}}
+]}

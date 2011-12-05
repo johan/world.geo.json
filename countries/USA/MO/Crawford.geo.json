@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Crawford","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.5327,38.2107],[-91.3684,38.2107],[-91.0946,38.2052],[-91.1000,37.7396],[-91.1439,37.7396],[-91.1548,37.6958],[-91.3082,37.7013],[-91.3082,37.7889],[-91.5272,37.7889],[-91.5327,38.1504]]]]}}
+]}

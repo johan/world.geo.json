@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Douglas","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.6884,37.0660],[-92.2502,37.0605],[-92.0914,37.0550],[-92.1133,36.7921],[-92.5295,36.8031],[-92.7650,36.8086],[-92.9074,36.8086],[-92.9020,37.0715]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Fulton","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.2420,41.1737],[-86.0777,41.1737],[-86.0777,41.0861],[-86.0174,41.0861],[-86.0174,41.0422],[-85.9462,41.0422],[-85.9462,40.9984],[-86.1708,40.9984],[-86.1708,40.9108],[-86.4666,40.9108],[-86.4666,41.1737]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Minnehaha","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.4894,43.8464],[-96.4510,43.8519],[-96.4510,43.5014],[-96.5989,43.5014],[-96.7796,43.5014],[-96.9220,43.5014],[-97.1302,43.5014],[-97.1302,43.8464],[-96.8892,43.8464]]]]}}
+]}

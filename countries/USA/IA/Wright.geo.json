@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Wright","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.5263,42.9099],[-93.4989,42.9099],[-93.4989,42.5594],[-93.8933,42.5594],[-93.9700,42.5594],[-93.9700,42.6470],[-93.9700,42.9099]]]]}}
+]}

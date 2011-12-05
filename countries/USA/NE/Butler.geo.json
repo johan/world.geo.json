@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Butler","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.9056,41.4530],[-96.9056,41.4530],[-96.9111,41.0477],[-96.9111,41.0477],[-97.3492,41.0477],[-97.3657,41.0477],[-97.3657,41.3928],[-97.2561,41.3763],[-97.0973,41.3873]]]]}}
+]}

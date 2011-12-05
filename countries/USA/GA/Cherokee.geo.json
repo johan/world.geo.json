@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Cherokee","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.5825,34.3878],[-84.2593,34.3823],[-84.2593,34.3330],[-84.2593,34.1851],[-84.3525,34.1742],[-84.3634,34.1249],[-84.4072,34.1084],[-84.4182,34.0756],[-84.6153,34.0811],[-84.6592,34.0756],[-84.6537,34.4151],[-84.5825,34.4097]]]]}}
+]}

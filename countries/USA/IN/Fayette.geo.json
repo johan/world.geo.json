@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Fayette","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.2233,39.7880],[-85.1850,39.7880],[-85.1850,39.7168],[-85.0371,39.7168],[-85.0371,39.5251],[-85.2397,39.5251],[-85.3000,39.5251],[-85.3000,39.7880]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"St. Joseph","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.0613,41.7597],[-86.0613,41.4804],[-86.2475,41.4804],[-86.4666,41.4749],[-86.4666,41.4311],[-86.5268,41.4311],[-86.5268,41.5187],[-86.4885,41.5680],[-86.4885,41.6502],[-86.5268,41.6502],[-86.5213,41.7597],[-86.2256,41.7597]]]]}}
+]}

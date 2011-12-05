@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Bradford","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.9202,42.0007],[-76.5588,42.0007],[-76.1480,42.0007],[-76.1151,41.6502],[-76.1973,41.6447],[-76.2192,41.5406],[-76.8162,41.5899],[-76.8764,41.5954],[-76.9257,42.0007]]]]}}
+]}

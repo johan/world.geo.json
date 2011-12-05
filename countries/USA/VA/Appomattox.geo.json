@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Appomattox","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.8262,37.5534],[-78.6345,37.4165],[-78.6291,37.3836],[-78.5962,37.4001],[-78.5962,37.3453],[-78.6838,37.2467],[-78.6893,37.2467],[-78.8262,37.2029],[-78.9193,37.2467],[-79.0015,37.4001],[-79.0179,37.4275],[-78.8700,37.5425]]]]}}
+]}

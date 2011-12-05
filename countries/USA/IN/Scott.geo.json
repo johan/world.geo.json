@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Scott","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.6834,38.8131],[-85.6834,38.7365],[-85.5683,38.6762],[-85.5683,38.6050],[-85.5902,38.6050],[-85.7929,38.6050],[-85.8477,38.5612],[-85.8860,38.5776],[-85.8860,38.7365],[-85.8422,38.7419],[-85.7929,38.8077]]]]}}
+]}

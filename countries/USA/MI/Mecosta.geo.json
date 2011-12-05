@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Mecosta","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.5410,43.8136],[-85.0864,43.8136],[-85.0864,43.4685],[-85.5519,43.4685],[-85.5629,43.4685],[-85.5629,43.8136]]]]}}
+]}

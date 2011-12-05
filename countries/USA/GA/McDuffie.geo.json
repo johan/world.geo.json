@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"McDuffie","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.4246,33.6484],[-82.4355,33.5498],[-82.3862,33.5279],[-82.3972,33.4895],[-82.2931,33.3526],[-82.3534,33.3143],[-82.3862,33.3143],[-82.5451,33.3526],[-82.6491,33.6100],[-82.5834,33.6539],[-82.4793,33.6374]]]]}}
+]}

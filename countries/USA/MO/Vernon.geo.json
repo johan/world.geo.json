@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Vernon","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.5012,38.0573],[-94.0576,38.0354],[-94.0631,37.8985],[-94.0740,37.6411],[-94.4903,37.6520],[-94.6162,37.6520],[-94.6162,37.6739],[-94.6162,38.0354],[-94.6162,38.0628]]]]}}
+]}

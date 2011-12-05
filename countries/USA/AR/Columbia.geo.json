@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Columbia","state":"AR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.2470,33.4403],[-93.1156,33.4512],[-93.1210,33.3800],[-92.9786,33.3800],[-92.9896,33.0185],[-93.2361,33.0185],[-93.4880,33.0185],[-93.4825,33.2595],[-93.4442,33.2595],[-93.3675,33.4457]]]]}}
+]}

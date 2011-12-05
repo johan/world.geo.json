@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Camuy","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.8372,18.4882],[-66.8262,18.3403],[-66.8920,18.3677],[-66.8974,18.3677],[-66.9029,18.4827]]]]}}
+]}

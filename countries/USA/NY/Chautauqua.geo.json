@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Chautauqua","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.1384,42.5703],[-79.0617,42.5374],[-79.0617,42.0007],[-79.6094,42.0007],[-79.7628,42.0007],[-79.7628,42.2526],[-79.7628,42.2691],[-79.1384,42.5703]]]]}}
+]}

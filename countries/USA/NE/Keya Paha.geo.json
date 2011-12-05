@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Keya Paha","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.1260,42.9975],[-99.5345,42.9975],[-99.2552,42.9975],[-99.2552,42.8058],[-99.5400,42.7182],[-99.6769,42.7291],[-100.0548,42.7839],[-100.1753,42.8332],[-100.1972,42.8442],[-100.1972,42.9975]]]]}}
+]}

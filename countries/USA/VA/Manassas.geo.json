@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Manassas","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-77.4734,38.7803],[-77.4570,38.7748],[-77.4515,38.7365],[-77.5227,38.7200]]]]}}
+{"type":"Feature","properties":{"kind":"county","name":"Manassas Park","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-77.4570,38.7748],[-77.4734,38.7803],[-77.4351,38.7803]]]]}}
+]}

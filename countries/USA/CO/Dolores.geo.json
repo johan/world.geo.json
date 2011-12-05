@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Dolores","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-109.0425,37.8821],[-108.2538,37.8930],[-108.2100,37.8218],[-107.9909,37.8547],[-107.8595,37.7780],[-107.8759,37.7177],[-107.9690,37.6958],[-107.9745,37.6411],[-108.9165,37.6301],[-109.0425,37.4822]]]]}}
+]}

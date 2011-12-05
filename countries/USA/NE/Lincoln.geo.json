@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Lincoln","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.2707,41.3928],[-100.7121,41.3928],[-100.2520,41.3928],[-100.2246,41.0477],[-100.2246,40.7027],[-100.4492,40.7027],[-100.7778,40.7027],[-101.2488,40.6972],[-101.2488,41.0039]]]]}}
+]}

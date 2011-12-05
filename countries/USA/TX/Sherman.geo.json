@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Sherman","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.8129,36.5019],[-101.6212,36.5019],[-101.6212,36.0528],[-102.1251,36.0582],[-102.1635,36.0528],[-102.1635,36.5019],[-102.0320,36.5019]]]]}}
+]}

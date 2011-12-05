@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Montgomery","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.6258,39.1472],[-91.4068,39.1417],[-91.2589,39.1417],[-91.2644,38.9939],[-91.2644,38.8460],[-91.4177,38.8460],[-91.4177,38.7091],[-91.5546,38.6762],[-91.6423,38.7036],[-91.6477,38.7036],[-91.6313,39.0596]]]]}}
+]}

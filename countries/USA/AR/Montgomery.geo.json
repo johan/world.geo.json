@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Montgomery","state":"AR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.5701,34.7438],[-93.3949,34.7438],[-93.4058,34.3987],[-93.4058,34.3385],[-93.4770,34.3385],[-93.7509,34.3494],[-93.9371,34.3494],[-93.9316,34.6671],[-93.8769,34.6671],[-93.8714,34.7109],[-93.7125,34.7438]]]]}}
+]}

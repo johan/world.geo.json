@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Henderson","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.9467,41.0696],[-90.7879,41.0696],[-90.7879,40.6370],[-90.8974,40.6370],[-90.9029,40.6370],[-91.1877,40.6370],[-91.1110,40.6972],[-91.0946,40.8232],[-90.9631,40.9272]]]]}}
+]}

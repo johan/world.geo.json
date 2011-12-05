@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Custer","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.2223,41.7433],[-99.2114,41.7433],[-99.2059,41.3928],[-99.2059,41.0477],[-99.4250,41.0477],[-99.9946,41.0477],[-100.2246,41.0477],[-100.2520,41.3928],[-100.2520,41.7378],[-99.6879,41.7378]]]]}}
+]}

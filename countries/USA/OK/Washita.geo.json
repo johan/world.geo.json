@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Washita","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.1676,35.4667],[-98.6254,35.4667],[-98.6199,35.0998],[-98.6527,35.1217],[-98.7349,35.0998],[-99.1840,35.1162],[-99.3593,35.1162],[-99.3647,35.4667]]]]}}
+]}

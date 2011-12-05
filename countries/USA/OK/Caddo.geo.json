@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Caddo","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.5870,35.5489],[-98.3132,35.5489],[-98.3077,35.3791],[-98.0941,35.3791],[-98.0941,34.8533],[-98.6199,34.8533],[-98.6199,35.0998],[-98.6254,35.4667],[-98.6254,35.5489]]]]}}
+]}

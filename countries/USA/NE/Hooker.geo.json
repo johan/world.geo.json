@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Hooker","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.4241,42.0938],[-100.8435,42.0883],[-100.8435,41.7378],[-101.4076,41.7433],[-101.4241,41.7433]]]]}}
+]}

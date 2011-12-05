@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Stone","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.9969,30.9099],[-88.8874,30.9099],[-88.8819,30.7346],[-88.8819,30.6799],[-89.2379,30.6799],[-89.2379,30.6470],[-89.3419,30.6470],[-89.3419,30.9099],[-89.1393,30.9099]]]]}}
+]}

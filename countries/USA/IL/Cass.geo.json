@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Cass","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.3552,40.1221],[-90.2730,40.0564],[-89.9937,40.1057],[-89.9937,39.9030],[-89.9937,39.8702],[-90.5852,39.8757],[-90.5140,39.9852],[-90.4373,40.0235]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Richland","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.6875,40.9930],[-82.4355,40.9930],[-82.4191,40.8232],[-82.3808,40.7848],[-82.3808,40.7246],[-82.3369,40.7246],[-82.3369,40.5548],[-82.6217,40.5493],[-82.6272,40.7082],[-82.7258,40.7136],[-82.7258,40.9984]]]]}}
+]}

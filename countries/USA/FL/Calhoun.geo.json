@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"FL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Calhoun","state":"FL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.1685,30.6087],[-84.9330,30.6087],[-84.9933,30.5210],[-84.9823,30.4444],[-85.0316,30.4225],[-85.0316,30.3129],[-85.1138,30.1979],[-85.2233,30.2034],[-85.3876,30.2034],[-85.3821,30.5649],[-85.1740,30.5649]]]]}}
+]}

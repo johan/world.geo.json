@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Carroll","state":"MD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.7888,39.7223],[-76.8929,39.4594],[-76.8819,39.3499],[-77.0791,39.3663],[-77.1667,39.3553],[-77.1065,39.4923],[-77.3091,39.6401],[-77.2762,39.6347],[-77.2160,39.7223],[-76.9969,39.7223]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Mineral","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-107.1037,37.9533],[-106.9996,37.9587],[-106.8791,37.9642],[-106.8463,37.9204],[-106.6984,37.8766],[-106.6929,37.8328],[-106.7093,37.4056],[-107.1311,37.3946],[-107.1311,37.4220],[-107.1365,37.9368]]]]}}
+]}

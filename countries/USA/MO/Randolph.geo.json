@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Randolph","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.6938,39.6128],[-92.2995,39.6073],[-92.3105,39.3499],[-92.3159,39.2458],[-92.4309,39.2513],[-92.7048,39.3225]]]]}}
+]}

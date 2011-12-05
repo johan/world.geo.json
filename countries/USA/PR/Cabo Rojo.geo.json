@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Cabo Rojo","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-67.1822,18.1705],[-67.1603,18.1541],[-67.1001,18.1048],[-67.1110,18.0555],[-67.1110,17.9460],[-67.1768,17.9624],[-67.1932,17.9350],[-67.2151,17.9624],[-67.1713,18.0172],[-67.2096,18.0336]]]]}}
+]}

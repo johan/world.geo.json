@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Candler","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.0302,32.5366],[-81.9700,32.5146],[-81.9755,32.4708],[-81.9207,32.4161],[-81.9700,32.2682],[-82.0248,32.2791],[-82.2329,32.3175],[-82.2548,32.3503],[-82.1507,32.5201],[-82.0795,32.5585]]]]}}
+]}

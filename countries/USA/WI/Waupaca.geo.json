@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Waupaca","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.2215,44.6789],[-88.6026,44.6789],[-88.6080,44.5913],[-88.7340,44.5913],[-88.7395,44.2408],[-88.8874,44.2408],[-89.2269,44.2463]]]]}}
+]}

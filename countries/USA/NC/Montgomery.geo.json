@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Montgomery","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.7683,35.5105],[-79.7135,35.2750],[-79.6149,35.1655],[-79.7299,35.1764],[-80.0750,35.1436],[-80.0531,35.1764],[-80.0969,35.2586],[-80.0531,35.3736],[-80.1078,35.4612],[-80.1845,35.5051],[-80.0640,35.5051]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Des Moines","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.3246,41.0751],[-90.9467,41.0751],[-90.9467,41.0696],[-90.9631,40.9272],[-91.0946,40.8232],[-91.1110,40.6972],[-91.4068,40.8122],[-91.3739,40.8122],[-91.3684,41.0751]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Hyde","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.5729,44.8980],[-99.3100,44.8980],[-99.2990,44.1970],[-99.5784,44.1915],[-99.6660,44.2189],[-99.6769,44.5475],[-99.6769,44.8980]]]]}}
+]}

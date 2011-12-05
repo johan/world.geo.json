@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Boyle","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.8563,37.6958],[-84.7468,37.7123],[-84.6811,37.6849],[-84.7030,37.6575],[-84.6592,37.6356],[-84.8454,37.5480],[-85.0371,37.5425],[-85.0316,37.6301],[-85.0261,37.6794]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MT"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Wheatland","state":"MT"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-110.1488,46.7164],[-109.9681,46.7547],[-109.7436,46.6944],[-109.3876,46.6944],[-109.4040,46.2180],[-109.6559,46.2180],[-110.0064,46.2180],[-110.2803,46.2180],[-110.2748,46.7109]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NJ"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Sussex","state":"NJ"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-74.3680,41.2011],[-74.5049,41.0861],[-74.6364,40.9656],[-74.6528,40.9218],[-74.7678,40.9108],[-74.9650,41.0915],[-74.9650,41.0970],[-74.9924,41.0915],[-74.8828,41.1792],[-74.7952,41.3216],[-74.6966,41.3599]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Catawba","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.1923,35.8227],[-81.1430,35.8282],[-81.1101,35.7789],[-80.9239,35.6201],[-80.9622,35.5489],[-81.4880,35.5708],[-81.5318,35.5708],[-81.3620,35.7680],[-81.3347,35.7953]]]]}}
+]}

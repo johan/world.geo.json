@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Campbell","state":"WY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-106.0247,44.9911],[-105.0882,45.0021],[-105.0772,44.1751],[-105.0772,43.4959],[-106.0192,43.4959],[-106.0083,44.5639]]]]}}
+]}

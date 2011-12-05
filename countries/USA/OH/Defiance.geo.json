@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Defiance","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.2703,41.4256],[-84.2265,41.4256],[-84.2265,41.1682],[-84.3415,41.1627],[-84.3415,41.2066],[-84.4565,41.2120],[-84.4565,41.2558],[-84.5770,41.2504],[-84.8016,41.2504],[-84.8016,41.2723],[-84.8016,41.4256],[-84.3415,41.4256]]]]}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"St. Clair","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.1799,38.6598],[-89.7089,38.6543],[-89.7034,38.4188],[-89.7034,38.2216],[-89.9006,38.2216],[-89.9116,38.3093],[-90.0375,38.3093],[-90.2073,38.4736],[-90.2621,38.5229],[-90.2566,38.5338],[-90.1909,38.5995]]]]}}
+]}

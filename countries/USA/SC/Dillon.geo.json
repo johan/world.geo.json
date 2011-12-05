@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Dillon","state":"SC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.4506,34.6233],[-79.0727,34.3001],[-79.0782,34.2947],[-79.1275,34.2563],[-79.1713,34.2892],[-79.2425,34.2563],[-79.3684,34.3001],[-79.4780,34.2892],[-79.5492,34.2289],[-79.6313,34.3001]]]]}}
+]}

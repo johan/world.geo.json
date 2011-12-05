@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Marion","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.1106,39.9249],[-85.9353,39.9249],[-85.9517,39.6949],[-85.9517,39.6401],[-85.9736,39.6401],[-86.2475,39.6347],[-86.3242,39.6292],[-86.3242,39.9249],[-86.2420,39.9249]]]]}}
+]}

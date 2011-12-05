@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Coffee","state":"AL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.0558,31.6164],[-85.7874,31.6164],[-85.7929,31.1947],[-86.1927,31.1947],[-86.1927,31.4412],[-86.1927,31.5288],[-86.1434,31.5398],[-86.1434,31.6164]]]]}}
+]}

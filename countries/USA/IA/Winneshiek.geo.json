@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Winneshiek","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.8504,43.5014],[-91.7299,43.5014],[-91.6094,43.5014],[-91.6039,43.0797],[-92.0804,43.0851],[-92.0804,43.2111],[-92.0804,43.5014]]]]}}
+]}

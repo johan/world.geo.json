@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Orange","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.2479,36.2444],[-79.1548,36.2444],[-78.9522,36.2390],[-79.0179,35.8611],[-79.1877,35.8720],[-79.2479,35.8775],[-79.2589,36.2444]]]]}}
+]}

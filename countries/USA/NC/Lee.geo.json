@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Lee","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.2425,35.5708],[-79.1987,35.5598],[-79.1165,35.6256],[-78.9686,35.5215],[-79.1822,35.3079],[-79.2644,35.3462],[-79.3301,35.4229],[-79.3520,35.5160],[-79.2972,35.5544],[-79.2644,35.5324]]]]}}
+]}

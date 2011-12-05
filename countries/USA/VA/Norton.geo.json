@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Norton","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.5998,36.9564],[-82.6163,36.9072],[-82.6601,36.9181]]]]}}
+]}

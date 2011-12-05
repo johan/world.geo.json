@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Cleburne","state":"AR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.9983,35.7077],[-91.8394,35.7022],[-91.7901,35.7132],[-91.7956,35.5324],[-91.7956,35.4558],[-91.8504,35.4393],[-91.8504,35.3572],[-92.1133,35.3627],[-92.2502,35.3627],[-92.2393,35.7132]]]]}}
+]}

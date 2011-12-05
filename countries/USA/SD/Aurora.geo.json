@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Aurora","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.3296,43.9395],[-98.3241,43.8519],[-98.3187,43.5014],[-98.6856,43.5014],[-98.7075,43.5014],[-98.7951,43.5014],[-98.8061,43.9341]]]]}}
+]}

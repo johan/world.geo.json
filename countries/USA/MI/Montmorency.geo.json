@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Montmorency","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.1991,45.1992],[-83.8814,45.2047],[-83.8869,44.8542],[-83.9526,44.8542],[-84.3744,44.8542],[-84.3689,45.1992],[-84.2484,45.1992]]]]}}
+]}

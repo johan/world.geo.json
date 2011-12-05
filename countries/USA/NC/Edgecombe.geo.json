@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Edgecombe","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-77.6980,36.1513],[-77.5391,36.0966],[-77.5282,36.0363],[-77.4022,36.0035],[-77.3420,35.9049],[-77.3529,35.8172],[-77.4132,35.8227],[-77.6596,35.6748],[-77.7199,35.7296],[-77.7527,35.8282],[-77.8294,35.8665],[-77.8294,35.8665]]]]}}
+]}

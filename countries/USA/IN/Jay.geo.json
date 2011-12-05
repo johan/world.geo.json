@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Jay","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.8016,40.5712],[-84.8016,40.3522],[-84.8016,40.3083],[-84.8070,40.3083],[-85.2178,40.3083],[-85.2178,40.3795],[-85.2014,40.5658],[-85.0699,40.5658]]]]}}
+]}

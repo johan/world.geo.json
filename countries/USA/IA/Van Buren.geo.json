@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Van Buren","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.1188,40.8998],[-91.7189,40.8998],[-91.7189,40.8122],[-91.7189,40.5986],[-91.8340,40.6096],[-91.9435,40.6041],[-92.1790,40.5986],[-92.1790,40.8998]]]]}}
+]}

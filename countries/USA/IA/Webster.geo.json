@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Webster","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.4410,42.6470],[-93.9700,42.6470],[-93.9700,42.5594],[-93.9700,42.4717],[-93.9316,42.4717],[-93.9316,42.2088],[-94.1671,42.2088],[-94.3972,42.2088],[-94.3972,42.4717],[-94.4410,42.4717],[-94.4410,42.5594]]]]}}
+]}

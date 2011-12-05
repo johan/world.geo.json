@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Adair","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.1630,37.3124],[-85.0590,37.2577],[-85.0426,37.1865],[-85.2069,36.9948],[-85.2342,36.9236],[-85.4478,36.9400],[-85.4533,36.9400],[-85.5245,37.1098],[-85.3547,37.1920],[-85.3109,37.2467],[-85.2014,37.2686]]]]}}
+]}

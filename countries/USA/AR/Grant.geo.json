@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AR"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Grant","state":"AR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.3926,34.4973],[-92.2447,34.4918],[-92.2064,34.4918],[-92.2338,34.0646],[-92.3378,34.0591],[-92.4912,34.1468],[-92.6774,34.1523],[-92.6665,34.4151],[-92.6226,34.4151],[-92.5898,34.4535],[-92.4036,34.4535]]]]}}
+]}

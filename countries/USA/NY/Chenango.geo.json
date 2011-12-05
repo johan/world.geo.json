@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Chenango","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-75.3100,42.7456],[-75.2936,42.7456],[-75.3319,42.5648],[-75.4031,42.5101],[-75.3758,42.4115],[-75.4141,42.3129],[-75.4196,42.1924],[-75.6386,42.1979],[-75.6386,42.2472],[-75.8358,42.2417],[-75.8632,42.4170],[-75.8906,42.7237]]]]}}
+]}

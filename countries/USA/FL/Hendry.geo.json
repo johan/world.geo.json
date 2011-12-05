@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"FL"},"features":[
+{"type":"Feature","properties":{"kind":"county","name":"Hendry","state":"FL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.9622,26.7693],[-80.8856,26.9610],[-80.8801,26.3312],[-80.8801,26.2600],[-81.2689,26.2545],[-81.2744,26.5174],[-81.5647,26.5119],[-81.5647,26.7693]]]]}}
+]}
