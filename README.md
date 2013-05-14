@@ -1,5 +1,5 @@
 To mock something fast and loose with geo-json data for the world,
-this is your fix. Your legal coverage for this data: maybe dubious?
+this is your fix. Exact legal status of this dataset: dubious?
 
 You should probably check out [world-atlas](https://github.com/mbostock/world-atlas)
 or [us-atlas](https://github.com/mbostock/us-atlas) instead, if that is an issue.
